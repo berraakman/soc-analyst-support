@@ -1,0 +1,90 @@
+[
+  {
+    "id": "db_pool",
+    "label": "dinamik_hata",
+    "decoy": false,
+    "description": "Veritabanı bağlantı havuzu tükendi, 503 ve zaman aşımları",
+    "start": "2026-10-30T09:11:00+03:00",
+    "end": "2026-10-30T09:14:00+03:00"
+  },
+  {
+    "id": "sqli_scan",
+    "label": "bilinen_saldiri",
+    "decoy": false,
+    "description": "sqlmap ile SQL injection / path traversal taraması",
+    "start": "2026-10-30T09:15:00+03:00",
+    "end": "2026-10-30T09:17:00+03:00"
+  },
+  {
+    "id": "cred_stuffing",
+    "label": "imzasiz_saldiri",
+    "decoy": false,
+    "description": "70 farklı IP'den yavaş, dağıtık parola deneme; sonunda bir hesap ele geçirildi",
+    "start": "2026-10-30T09:18:00+03:00",
+    "end": "2026-10-30T09:22:00+03:00"
+  },
+  {
+    "id": "scanner",
+    "label": "normal",
+    "decoy": true,
+    "description": "Yetkili iç zafiyet taraması (decoy)",
+    "start": "2026-10-30T09:23:00+03:00",
+    "end": "2026-10-30T09:26:00+03:00"
+  },
+  {
+    "id": "bad_deploy",
+    "label": "dinamik_hata",
+    "decoy": false,
+    "description": "2.4.1 sürümü sonrası checkout'ta NullPointerException",
+    "start": "2026-10-30T09:27:00+03:00",
+    "end": "2026-10-30T09:30:00+03:00"
+  },
+  {
+    "id": "webshell",
+    "label": "imzasiz_saldiri",
+    "decoy": false,
+    "description": "Avatar yüklemesiyle webshell, www-data altında komut çalıştırma",
+    "start": "2026-10-30T09:31:00+03:00",
+    "end": "2026-10-30T09:34:00+03:00"
+  },
+  {
+    "id": "idor",
+    "label": "imzasiz_saldiri",
+    "decoy": false,
+    "description": "Meşru kullanıcı başka kullanıcıların profillerini sırayla çekiyor (IDOR)",
+    "start": "2026-10-30T09:35:00+03:00",
+    "end": "2026-10-30T09:38:00+03:00"
+  },
+  {
+    "id": "memleak",
+    "label": "dinamik_hata",
+    "decoy": false,
+    "description": "Bellek sızıntısı, OutOfMemoryError ve servis yeniden başlatma",
+    "start": "2026-10-30T09:39:00+03:00",
+    "end": "2026-10-30T09:42:00+03:00"
+  },
+  {
+    "id": "exfil",
+    "label": "imzasiz_saldiri",
+    "decoy": false,
+    "description": "Ele geçirilmiş hesapla yeni IP'den toplu müşteri verisi indirme",
+    "start": "2026-10-30T09:43:00+03:00",
+    "end": "2026-10-30T09:46:00+03:00"
+  },
+  {
+    "id": "ssh_brute",
+    "label": "bilinen_saldiri",
+    "decoy": false,
+    "description": "Tek IP'den klasik SSH brute force",
+    "start": "2026-10-30T09:47:00+03:00",
+    "end": "2026-10-30T09:49:00+03:00"
+  },
+  {
+    "id": "backup",
+    "label": "normal",
+    "decoy": true,
+    "description": "Planlı gece yedeği: toplu export (decoy)",
+    "start": "2026-10-30T09:50:00+03:00",
+    "end": "2026-10-30T09:53:00+03:00"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "environment": "E-ticaret platformu: web-01 (nginx + php-fpm), app-01 (order-api, Java), db-01 (PostgreSQL)",
+  "internal_networks": [
+    "10.0.0.0/8"
+  ],
+  "authorized_activity": [
+    {
+      "what": "Nessus iç zafiyet taraması",
+      "source_ip": "10.0.5.50",
+      "window": [
+        "2026-10-30T09:23:00+03:00",
+        "2026-10-30T09:26:00+03:00"
+      ]
+    },
+    {
+      "what": "Planlı yedekleme: svc-backup hesabı müşteri verisini export API'si ile çeker",
+      "source_ip": "10.0.9.10",
+      "window": [
+        "2026-10-30T09:50:00+03:00",
+        "2026-10-30T09:53:00+03:00"
+      ]
+    }
+  ],
+  "service_accounts": [
+    "deploy",
+    "admin",
+    "svc-backup",
+    "www-data"
+  ],
+  "notes": "Normal kullanıcılar yalnızca kendi profillerine (/api/users/me) erişir."
+}

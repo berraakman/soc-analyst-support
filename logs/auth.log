@@ -1,0 +1,794 @@
+2026-10-30T09:00:00.120000+03:00 web-01 CRON[4045]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:01:00.882000+03:00 web-01 CRON[4091]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:02:00.313000+03:00 web-01 CRON[4125]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:02:17+03:00 web-01 sshd[4007]: Accepted publickey for deploy from 10.0.1.5 port 56627 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:03:00.674000+03:00 web-01 CRON[4157]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:03:40.228000+03:00 web-01 sshd[4169]: Accepted publickey for admin from 10.0.1.7 port 52174 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:04:00.314000+03:00 web-01 CRON[4191]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:05:00.699000+03:00 web-01 CRON[4202]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:05:17+03:00 web-01 sshd[4023]: Accepted publickey for admin from 10.0.1.7 port 54209 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:06:00.206000+03:00 web-01 CRON[4265]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:07:00.975000+03:00 web-01 CRON[4290]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:08:00.739000+03:00 web-01 CRON[4348]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:09:00.375000+03:00 web-01 CRON[4357]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:10:00.171000+03:00 web-01 CRON[4407]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:11:00.504000+03:00 web-01 CRON[4465]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:12:00.787000+03:00 web-01 CRON[4488]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:12:12.886000+03:00 web-01 sshd[4511]: Accepted publickey for deploy from 10.0.1.5 port 44492 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:12:17.446000+03:00 web-01 sshd[4526]: Accepted publickey for deploy from 10.0.1.5 port 55838 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:13:00.755000+03:00 web-01 CRON[4577]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:14:00.860000+03:00 web-01 CRON[4615]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:14:35.257000+03:00 web-01 sshd[4638]: Failed password for ece from 10.0.1.14 port 54510 ssh2
+2026-10-30T09:15:00.964000+03:00 web-01 CRON[4664]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:15:20.802000+03:00 web-01 sshd[4684]: Accepted publickey for deploy from 10.0.1.5 port 57762 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:16:00.613000+03:00 web-01 CRON[4708]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:16:36.398000+03:00 web-01 sshd[4714]: Failed password for emre from 10.0.1.24 port 54043 ssh2
+2026-10-30T09:17:00.870000+03:00 web-01 CRON[4743]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:17:49.784000+03:00 web-01 sshd[4768]: Accepted publickey for deploy from 10.0.1.5 port 61612 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:18:00.073000+03:00 web-01 CRON[4813]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:19:00.360000+03:00 web-01 CRON[4863]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:20:00.485000+03:00 web-01 CRON[4906]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:21:00.249000+03:00 web-01 CRON[4954]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:22:00.882000+03:00 web-01 CRON[4968]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:23:00.562000+03:00 web-01 CRON[4995]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:24:00.906000+03:00 web-01 CRON[5007]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:24:24.474000+03:00 web-01 sshd[5034]: Accepted publickey for deploy from 10.0.1.5 port 43385 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:25:00.149000+03:00 web-01 CRON[5077]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:26:00.503000+03:00 web-01 CRON[5160]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:27:00+03:00 web-01 sshd[6579]: Accepted publickey for deploy from 10.0.1.5 port 51022 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:27:00.103000+03:00 web-01 CRON[5204]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:27:02+03:00 web-01 sudo[6606]: deploy : TTY=pts/1 ; PWD=/opt/order-api ; USER=root ; COMMAND=/usr/bin/systemctl restart order-api
+2026-10-30T09:27:05.678000+03:00 web-01 sshd[5223]: Accepted publickey for admin from 10.0.1.7 port 62399 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:27:23.114000+03:00 web-01 sshd[5251]: Accepted publickey for admin from 10.0.1.7 port 62076 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:27:25.920000+03:00 web-01 sudo[5256]: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/systemctl status order-api
+2026-10-30T09:27:39.014000+03:00 web-01 sshd[5258]: Accepted publickey for deploy from 10.0.1.5 port 51964 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:28:00.823000+03:00 web-01 CRON[5280]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:29:00.484000+03:00 web-01 CRON[5299]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:30:00.348000+03:00 web-01 CRON[5337]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:31:00.520000+03:00 web-01 CRON[5371]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:31:10.652000+03:00 web-01 sshd[5397]: Accepted publickey for deploy from 10.0.1.5 port 44741 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:32:00.366000+03:00 web-01 CRON[5419]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:33:00.358000+03:00 web-01 CRON[5440]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:33:47.027000+03:00 web-01 sshd[5487]: Accepted publickey for admin from 10.0.1.7 port 62383 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:34:00.751000+03:00 web-01 CRON[5518]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:34:54.888000+03:00 web-01 sshd[5537]: Accepted publickey for deploy from 10.0.1.5 port 56087 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:35:00.557000+03:00 web-01 CRON[5592]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:35:31.583000+03:00 web-01 sshd[5643]: Accepted publickey for deploy from 10.0.1.5 port 52529 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:36:00.995000+03:00 web-01 CRON[5671]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:37:00.840000+03:00 web-01 CRON[5704]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:38:00.641000+03:00 web-01 CRON[5750]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:38:13.770000+03:00 web-01 sshd[5775]: Accepted publickey for admin from 10.0.1.7 port 60385 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:39:00.291000+03:00 web-01 CRON[5798]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:39:48.470000+03:00 web-01 sshd[5825]: Accepted publickey for admin from 10.0.1.7 port 42673 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:40:00.871000+03:00 web-01 CRON[5853]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:41:00.438000+03:00 web-01 CRON[5906]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:42:00.663000+03:00 web-01 CRON[5961]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:43:00.516000+03:00 web-01 CRON[5971]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:44:00.588000+03:00 web-01 CRON[5985]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:45:00.934000+03:00 web-01 CRON[6014]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:45:40.101000+03:00 web-01 sshd[6054]: Failed password for murat from 10.0.1.22 port 46849 ssh2
+2026-10-30T09:45:53.179000+03:00 web-01 sshd[6069]: Accepted publickey for admin from 10.0.1.7 port 55478 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:46:00.054000+03:00 web-01 CRON[6084]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:47:00.176000+03:00 web-01 sshd[6890]: Failed password for root from 218.92.0.112 port 30904 ssh2
+2026-10-30T09:47:00.234000+03:00 web-01 sshd[6868]: Failed password for invalid user test from 218.92.0.112 port 42063 ssh2
+2026-10-30T09:47:00.330000+03:00 web-01 sshd[6844]: Invalid user test from 218.92.0.112 port 42063
+2026-10-30T09:47:00.451000+03:00 web-01 sshd[6918]: Failed password for invalid user oracle from 218.92.0.112 port 38003 ssh2
+2026-10-30T09:47:00.671000+03:00 web-01 sshd[6934]: Failed password for admin from 218.92.0.112 port 46667 ssh2
+2026-10-30T09:47:00.734000+03:00 web-01 CRON[6122]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:47:00.966000+03:00 web-01 sshd[6892]: Invalid user oracle from 218.92.0.112 port 38003
+2026-10-30T09:47:01.088000+03:00 web-01 sshd[6958]: Invalid user oracle from 218.92.0.112 port 55120
+2026-10-30T09:47:01.253000+03:00 web-01 sshd[7027]: Failed password for admin from 218.92.0.112 port 41799 ssh2
+2026-10-30T09:47:01.271000+03:00 web-01 sshd[7002]: Failed password for root from 218.92.0.112 port 54973 ssh2
+2026-10-30T09:47:01.349000+03:00 web-01 sshd[6978]: Failed password for admin from 218.92.0.112 port 30742 ssh2
+2026-10-30T09:47:01.626000+03:00 web-01 sshd[6959]: Failed password for invalid user oracle from 218.92.0.112 port 55120 ssh2
+2026-10-30T09:47:02.007000+03:00 web-01 sshd[7048]: Invalid user ubuntu from 218.92.0.112 port 30809
+2026-10-30T09:47:02.258000+03:00 web-01 sshd[7124]: Failed password for invalid user ubuntu from 218.92.0.112 port 39490 ssh2
+2026-10-30T09:47:02.587000+03:00 web-01 sshd[7132]: Invalid user oracle from 218.92.0.112 port 50634
+2026-10-30T09:47:02.605000+03:00 web-01 sshd[7137]: Failed password for invalid user oracle from 218.92.0.112 port 50634 ssh2
+2026-10-30T09:47:02.889000+03:00 web-01 sshd[7066]: Failed password for invalid user ubuntu from 218.92.0.112 port 30809 ssh2
+2026-10-30T09:47:02.973000+03:00 web-01 sshd[7147]: Failed password for admin from 218.92.0.112 port 62457 ssh2
+2026-10-30T09:47:02.982000+03:00 web-01 sshd[7096]: Invalid user ubuntu from 218.92.0.112 port 39490
+2026-10-30T09:47:03.231000+03:00 web-01 sshd[7171]: Failed password for invalid user oracle from 218.92.0.112 port 52286 ssh2
+2026-10-30T09:47:03.305000+03:00 web-01 sshd[7158]: Invalid user oracle from 218.92.0.112 port 52286
+2026-10-30T09:47:03.748000+03:00 web-01 sshd[7205]: Failed password for root from 218.92.0.112 port 49978 ssh2
+2026-10-30T09:47:03.903000+03:00 web-01 sshd[7185]: Failed password for admin from 218.92.0.112 port 51139 ssh2
+2026-10-30T09:47:03.959000+03:00 web-01 sshd[7206]: Failed password for admin from 218.92.0.112 port 57269 ssh2
+2026-10-30T09:47:04.188000+03:00 web-01 sshd[7228]: Invalid user oracle from 218.92.0.112 port 46475
+2026-10-30T09:47:04.319000+03:00 web-01 sshd[7268]: Invalid user test from 218.92.0.112 port 39074
+2026-10-30T09:47:04.336000+03:00 web-01 sshd[7245]: Failed password for invalid user oracle from 218.92.0.112 port 46475 ssh2
+2026-10-30T09:47:04.596000+03:00 web-01 sshd[7281]: Invalid user test from 218.92.0.112 port 30021
+2026-10-30T09:47:04.831000+03:00 web-01 sshd[7274]: Failed password for invalid user test from 218.92.0.112 port 39074 ssh2
+2026-10-30T09:47:04.871000+03:00 web-01 sshd[7207]: Failed password for root from 218.92.0.112 port 64104 ssh2
+2026-10-30T09:47:04.914000+03:00 web-01 sshd[7294]: Failed password for invalid user test from 218.92.0.112 port 30021 ssh2
+2026-10-30T09:47:05.035000+03:00 web-01 sshd[7341]: Invalid user ubuntu from 218.92.0.112 port 56532
+2026-10-30T09:47:05.243000+03:00 web-01 sshd[7403]: Failed password for admin from 218.92.0.112 port 47787 ssh2
+2026-10-30T09:47:05.451000+03:00 web-01 sshd[7385]: Failed password for admin from 218.92.0.112 port 40393 ssh2
+2026-10-30T09:47:05.567000+03:00 web-01 sshd[7306]: Invalid user ubuntu from 218.92.0.112 port 31644
+2026-10-30T09:47:05.605000+03:00 web-01 sshd[7365]: Failed password for invalid user ubuntu from 218.92.0.112 port 56532 ssh2
+2026-10-30T09:47:05.663000+03:00 web-01 sshd[7329]: Failed password for invalid user ubuntu from 218.92.0.112 port 31644 ssh2
+2026-10-30T09:47:06.079000+03:00 web-01 sshd[7452]: Failed password for invalid user test from 218.92.0.112 port 50003 ssh2
+2026-10-30T09:47:06.507000+03:00 web-01 sshd[7433]: Invalid user test from 218.92.0.112 port 50003
+2026-10-30T09:47:06.552000+03:00 web-01 sshd[7480]: Failed password for root from 218.92.0.112 port 62798 ssh2
+2026-10-30T09:47:06.743000+03:00 web-01 sshd[7494]: Failed password for root from 218.92.0.112 port 35877 ssh2
+2026-10-30T09:47:06.994000+03:00 web-01 sshd[7407]: Failed password for root from 218.92.0.112 port 56516 ssh2
+2026-10-30T09:47:07.429000+03:00 web-01 sshd[7534]: Failed password for invalid user ubuntu from 218.92.0.112 port 42117 ssh2
+2026-10-30T09:47:07.563000+03:00 web-01 sshd[7603]: Failed password for admin from 218.92.0.112 port 52183 ssh2
+2026-10-30T09:47:07.596000+03:00 web-01 sshd[7545]: Invalid user oracle from 218.92.0.112 port 48748
+2026-10-30T09:47:07.922000+03:00 web-01 sshd[7561]: Failed password for invalid user oracle from 218.92.0.112 port 48748 ssh2
+2026-10-30T09:47:07.939000+03:00 web-01 sshd[7513]: Invalid user ubuntu from 218.92.0.112 port 42117
+2026-10-30T09:47:07.980000+03:00 web-01 sshd[7582]: Failed password for root from 218.92.0.112 port 44293 ssh2
+2026-10-30T09:47:08.021000+03:00 web-01 sshd[7643]: Failed password for invalid user ubuntu from 218.92.0.112 port 31520 ssh2
+2026-10-30T09:47:08.191000+03:00 web-01 sshd[7615]: Invalid user ubuntu from 218.92.0.112 port 31520
+2026-10-30T09:47:08.193000+03:00 web-01 sshd[7694]: Failed password for invalid user ubuntu from 218.92.0.112 port 59696 ssh2
+2026-10-30T09:47:08.289000+03:00 web-01 sshd[7724]: Invalid user oracle from 218.92.0.112 port 55771
+2026-10-30T09:47:08.289000+03:00 web-01 sshd[7737]: Failed password for invalid user oracle from 218.92.0.112 port 55771 ssh2
+2026-10-30T09:47:08.503000+03:00 web-01 sshd[7680]: Failed password for invalid user test from 218.92.0.112 port 37301 ssh2
+2026-10-30T09:47:08.792000+03:00 web-01 sshd[7681]: Invalid user ubuntu from 218.92.0.112 port 59696
+2026-10-30T09:47:08.938000+03:00 web-01 sshd[7661]: Invalid user test from 218.92.0.112 port 37301
+2026-10-30T09:47:09.036000+03:00 web-01 sshd[7836]: Invalid user test from 218.92.0.112 port 51301
+2026-10-30T09:47:09.054000+03:00 web-01 sshd[7820]: Failed password for admin from 218.92.0.112 port 48534 ssh2
+2026-10-30T09:47:09.744000+03:00 web-01 sshd[7792]: Failed password for root from 218.92.0.112 port 54367 ssh2
+2026-10-30T09:47:09.792000+03:00 web-01 sshd[7843]: Failed password for invalid user test from 218.92.0.112 port 51301 ssh2
+2026-10-30T09:47:09.835000+03:00 web-01 sshd[7763]: Failed password for invalid user ubuntu from 218.92.0.112 port 60336 ssh2
+2026-10-30T09:47:09.884000+03:00 web-01 sshd[7761]: Invalid user ubuntu from 218.92.0.112 port 60336
+2026-10-30T09:47:10.113000+03:00 web-01 sshd[7949]: Failed password for invalid user oracle from 218.92.0.112 port 60997 ssh2
+2026-10-30T09:47:10.428000+03:00 web-01 sshd[7917]: Failed password for invalid user oracle from 218.92.0.112 port 43161 ssh2
+2026-10-30T09:47:10.590000+03:00 web-01 sshd[7869]: Invalid user ubuntu from 218.92.0.112 port 59578
+2026-10-30T09:47:10.643000+03:00 web-01 sshd[7885]: Failed password for invalid user ubuntu from 218.92.0.112 port 59578 ssh2
+2026-10-30T09:47:10.738000+03:00 web-01 sshd[7926]: Invalid user oracle from 218.92.0.112 port 60997
+2026-10-30T09:47:10.758000+03:00 web-01 sshd[7904]: Invalid user oracle from 218.92.0.112 port 43161
+2026-10-30T09:47:10.981000+03:00 web-01 sshd[7886]: Failed password for root from 218.92.0.112 port 63005 ssh2
+2026-10-30T09:47:11+03:00 web-01 sshd[7972]: Invalid user oracle from 218.92.0.112 port 43027
+2026-10-30T09:47:11.209000+03:00 web-01 sshd[8079]: Failed password for invalid user test from 218.92.0.112 port 58222 ssh2
+2026-10-30T09:47:11.325000+03:00 web-01 sshd[7993]: Failed password for invalid user oracle from 218.92.0.112 port 43027 ssh2
+2026-10-30T09:47:11.609000+03:00 web-01 sshd[8044]: Failed password for invalid user oracle from 218.92.0.112 port 54829 ssh2
+2026-10-30T09:47:11.630000+03:00 web-01 sshd[8056]: Invalid user test from 218.92.0.112 port 58222
+2026-10-30T09:47:11.744000+03:00 web-01 sshd[8016]: Invalid user oracle from 218.92.0.112 port 54829
+2026-10-30T09:47:11.916000+03:00 web-01 sshd[8100]: Failed password for root from 218.92.0.112 port 30835 ssh2
+2026-10-30T09:47:12.028000+03:00 web-01 sshd[8195]: Failed password for invalid user ubuntu from 218.92.0.112 port 64647 ssh2
+2026-10-30T09:47:12.030000+03:00 web-01 sshd[8239]: Failed password for invalid user ubuntu from 218.92.0.112 port 58774 ssh2
+2026-10-30T09:47:12.303000+03:00 web-01 sshd[8160]: Failed password for invalid user oracle from 218.92.0.112 port 46495 ssh2
+2026-10-30T09:47:12.369000+03:00 web-01 sshd[8183]: Invalid user ubuntu from 218.92.0.112 port 64647
+2026-10-30T09:47:12.407000+03:00 web-01 sshd[8209]: Invalid user ubuntu from 218.92.0.112 port 58774
+2026-10-30T09:47:12.505000+03:00 web-01 sshd[8139]: Invalid user oracle from 218.92.0.112 port 46495
+2026-10-30T09:47:12.566000+03:00 web-01 sshd[8125]: Invalid user test from 218.92.0.112 port 33206
+2026-10-30T09:47:12.960000+03:00 web-01 sshd[8127]: Failed password for invalid user test from 218.92.0.112 port 33206 ssh2
+2026-10-30T09:47:13.207000+03:00 web-01 sshd[8249]: Failed password for root from 218.92.0.112 port 35005 ssh2
+2026-10-30T09:47:13.298000+03:00 web-01 sshd[8322]: Failed password for invalid user oracle from 218.92.0.112 port 63011 ssh2
+2026-10-30T09:47:13.319000+03:00 web-01 sshd[8266]: Invalid user oracle from 218.92.0.112 port 37542
+2026-10-30T09:47:13.363000+03:00 web-01 sshd[8301]: Invalid user oracle from 218.92.0.112 port 63011
+2026-10-30T09:47:13.372000+03:00 web-01 sshd[8279]: Failed password for root from 218.92.0.112 port 41938 ssh2
+2026-10-30T09:47:13.764000+03:00 web-01 sshd[8277]: Failed password for invalid user oracle from 218.92.0.112 port 37542 ssh2
+2026-10-30T09:47:14.010000+03:00 web-01 sshd[8333]: Invalid user test from 218.92.0.112 port 33241
+2026-10-30T09:47:14.073000+03:00 web-01 sshd[8445]: Failed password for invalid user test from 218.92.0.112 port 31965 ssh2
+2026-10-30T09:47:14.078000+03:00 web-01 sshd[8425]: Invalid user test from 218.92.0.112 port 31965
+2026-10-30T09:47:14.256000+03:00 web-01 sshd[8382]: Failed password for admin from 218.92.0.112 port 58109 ssh2
+2026-10-30T09:47:14.575000+03:00 web-01 sshd[8359]: Failed password for invalid user test from 218.92.0.112 port 33241 ssh2
+2026-10-30T09:47:14.735000+03:00 web-01 sshd[8383]: Invalid user test from 218.92.0.112 port 55421
+2026-10-30T09:47:14.840000+03:00 web-01 sshd[8401]: Failed password for invalid user test from 218.92.0.112 port 55421 ssh2
+2026-10-30T09:47:15.202000+03:00 web-01 sshd[8476]: Failed password for admin from 218.92.0.112 port 53811 ssh2
+2026-10-30T09:47:15.353000+03:00 web-01 sshd[8449]: Invalid user test from 218.92.0.112 port 38007
+2026-10-30T09:47:15.426000+03:00 web-01 sshd[8481]: Failed password for root from 218.92.0.112 port 54472 ssh2
+2026-10-30T09:47:15.458000+03:00 web-01 sshd[8474]: Failed password for invalid user test from 218.92.0.112 port 38007 ssh2
+2026-10-30T09:47:15.783000+03:00 web-01 sshd[8532]: Failed password for invalid user ubuntu from 218.92.0.112 port 46197 ssh2
+2026-10-30T09:47:15.798000+03:00 web-01 sshd[8502]: Invalid user ubuntu from 218.92.0.112 port 46197
+2026-10-30T09:47:16.063000+03:00 web-01 sshd[8591]: Failed password for invalid user oracle from 218.92.0.112 port 38089 ssh2
+2026-10-30T09:47:16.439000+03:00 web-01 sshd[8597]: Failed password for root from 218.92.0.112 port 32912 ssh2
+2026-10-30T09:47:16.544000+03:00 web-01 sshd[8585]: Invalid user oracle from 218.92.0.112 port 38089
+2026-10-30T09:47:16.557000+03:00 web-01 sshd[8566]: Failed password for root from 218.92.0.112 port 34902 ssh2
+2026-10-30T09:47:16.657000+03:00 web-01 sshd[8542]: Invalid user test from 218.92.0.112 port 53500
+2026-10-30T09:47:16.683000+03:00 web-01 sshd[8555]: Failed password for invalid user test from 218.92.0.112 port 53500 ssh2
+2026-10-30T09:47:17.022000+03:00 web-01 sshd[8669]: Failed password for admin from 218.92.0.112 port 55900 ssh2
+2026-10-30T09:47:17.151000+03:00 web-01 sshd[8614]: Failed password for root from 218.92.0.112 port 45404 ssh2
+2026-10-30T09:47:17.401000+03:00 web-01 sshd[8691]: Failed password for admin from 218.92.0.112 port 39473 ssh2
+2026-10-30T09:47:17.581000+03:00 web-01 sshd[8639]: Invalid user oracle from 218.92.0.112 port 49446
+2026-10-30T09:47:17.640000+03:00 web-01 sshd[8667]: Failed password for invalid user oracle from 218.92.0.112 port 49446 ssh2
+2026-10-30T09:47:18.031000+03:00 web-01 sshd[8820]: Failed password for invalid user test from 218.92.0.112 port 41917 ssh2
+2026-10-30T09:47:18.117000+03:00 web-01 sshd[8713]: Failed password for root from 218.92.0.112 port 58527 ssh2
+2026-10-30T09:47:18.166000+03:00 web-01 sshd[8769]: Invalid user test from 218.92.0.112 port 35347
+2026-10-30T09:47:18.206000+03:00 web-01 sshd[8752]: Failed password for invalid user test from 218.92.0.112 port 61528 ssh2
+2026-10-30T09:47:18.429000+03:00 web-01 sshd[8808]: Invalid user test from 218.92.0.112 port 41917
+2026-10-30T09:47:18.669000+03:00 web-01 sshd[8783]: Failed password for invalid user test from 218.92.0.112 port 35347 ssh2
+2026-10-30T09:47:18.835000+03:00 web-01 sshd[8722]: Invalid user test from 218.92.0.112 port 61528
+2026-10-30T09:47:19.062000+03:00 web-01 sshd[8846]: Failed password for root from 218.92.0.112 port 55683 ssh2
+2026-10-30T09:47:19.446000+03:00 web-01 sshd[8910]: Failed password for root from 218.92.0.112 port 61426 ssh2
+2026-10-30T09:47:19.636000+03:00 web-01 sshd[8888]: Failed password for invalid user test from 218.92.0.112 port 56130 ssh2
+2026-10-30T09:47:19.649000+03:00 web-01 sshd[8854]: Failed password for admin from 218.92.0.112 port 54245 ssh2
+2026-10-30T09:47:19.791000+03:00 web-01 sshd[8876]: Invalid user test from 218.92.0.112 port 56130
+2026-10-30T09:47:20.149000+03:00 web-01 sshd[8943]: Invalid user oracle from 218.92.0.112 port 61080
+2026-10-30T09:47:20.533000+03:00 web-01 sshd[8980]: Failed password for invalid user oracle from 218.92.0.112 port 57266 ssh2
+2026-10-30T09:47:20.566000+03:00 web-01 sshd[8920]: Invalid user test from 218.92.0.112 port 37065
+2026-10-30T09:47:20.568000+03:00 web-01 sshd[8974]: Invalid user oracle from 218.92.0.112 port 57266
+2026-10-30T09:47:20.662000+03:00 web-01 sshd[8942]: Failed password for invalid user test from 218.92.0.112 port 37065 ssh2
+2026-10-30T09:47:20.734000+03:00 web-01 sshd[8964]: Failed password for admin from 218.92.0.112 port 30532 ssh2
+2026-10-30T09:47:20.867000+03:00 web-01 sshd[8949]: Failed password for invalid user oracle from 218.92.0.112 port 61080 ssh2
+2026-10-30T09:47:21.401000+03:00 web-01 sshd[9065]: Failed password for invalid user test from 218.92.0.112 port 53835 ssh2
+2026-10-30T09:47:21.458000+03:00 web-01 sshd[6141]: Accepted publickey for deploy from 10.0.1.5 port 59831 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:47:21.488000+03:00 web-01 sshd[9039]: Invalid user test from 218.92.0.112 port 53835
+2026-10-30T09:47:21.645000+03:00 web-01 sshd[9031]: Failed password for root from 218.92.0.112 port 49396 ssh2
+2026-10-30T09:47:21.701000+03:00 web-01 sshd[9003]: Failed password for admin from 218.92.0.112 port 43693 ssh2
+2026-10-30T09:47:21.743000+03:00 web-01 sshd[9076]: Failed password for admin from 218.92.0.112 port 47919 ssh2
+2026-10-30T09:47:22.146000+03:00 web-01 sshd[9190]: Failed password for invalid user test from 218.92.0.112 port 50379 ssh2
+2026-10-30T09:47:22.169000+03:00 web-01 sshd[9191]: Invalid user oracle from 218.92.0.112 port 48418
+2026-10-30T09:47:22.321000+03:00 web-01 sshd[9213]: Failed password for invalid user oracle from 218.92.0.112 port 48418 ssh2
+2026-10-30T09:47:22.354000+03:00 web-01 sshd[9165]: Invalid user test from 218.92.0.112 port 50379
+2026-10-30T09:47:22.667000+03:00 web-01 sshd[9103]: Failed password for root from 218.92.0.112 port 46517 ssh2
+2026-10-30T09:47:22.724000+03:00 web-01 sshd[9119]: Invalid user oracle from 218.92.0.112 port 62762
+2026-10-30T09:47:22.968000+03:00 web-01 sshd[9139]: Failed password for invalid user oracle from 218.92.0.112 port 62762 ssh2
+2026-10-30T09:47:23.031000+03:00 web-01 sshd[9282]: Failed password for invalid user ubuntu from 218.92.0.112 port 63243 ssh2
+2026-10-30T09:47:23.160000+03:00 web-01 sshd[9229]: Failed password for admin from 218.92.0.112 port 33959 ssh2
+2026-10-30T09:47:23.208000+03:00 web-01 sshd[9291]: Failed password for invalid user oracle from 218.92.0.112 port 42657 ssh2
+2026-10-30T09:47:23.647000+03:00 web-01 sshd[9238]: Failed password for root from 218.92.0.112 port 49396 ssh2
+2026-10-30T09:47:23.898000+03:00 web-01 sshd[9289]: Invalid user oracle from 218.92.0.112 port 42657
+2026-10-30T09:47:23.976000+03:00 web-01 sshd[9266]: Invalid user ubuntu from 218.92.0.112 port 63243
+2026-10-30T09:47:24.374000+03:00 web-01 sshd[9347]: Failed password for root from 218.92.0.112 port 48829 ssh2
+2026-10-30T09:47:24.448000+03:00 web-01 sshd[9324]: Failed password for root from 218.92.0.112 port 30547 ssh2
+2026-10-30T09:47:24.773000+03:00 web-01 sshd[9294]: Failed password for root from 218.92.0.112 port 55413 ssh2
+2026-10-30T09:47:24.848000+03:00 web-01 sshd[9363]: Failed password for admin from 218.92.0.112 port 62231 ssh2
+2026-10-30T09:47:25.129000+03:00 web-01 sshd[9431]: Failed password for root from 218.92.0.112 port 53559 ssh2
+2026-10-30T09:47:25.171000+03:00 web-01 sshd[9405]: Invalid user ubuntu from 218.92.0.112 port 42560
+2026-10-30T09:47:25.548000+03:00 web-01 sshd[9385]: Invalid user ubuntu from 218.92.0.112 port 54573
+2026-10-30T09:47:25.560000+03:00 web-01 sshd[9410]: Failed password for root from 218.92.0.112 port 43963 ssh2
+2026-10-30T09:47:25.971000+03:00 web-01 sshd[9398]: Failed password for invalid user ubuntu from 218.92.0.112 port 54573 ssh2
+2026-10-30T09:47:25.996000+03:00 web-01 sshd[9406]: Failed password for invalid user ubuntu from 218.92.0.112 port 42560 ssh2
+2026-10-30T09:47:26.272000+03:00 web-01 sshd[9517]: Failed password for root from 218.92.0.112 port 43809 ssh2
+2026-10-30T09:47:26.276000+03:00 web-01 sshd[9529]: Invalid user test from 218.92.0.112 port 58268
+2026-10-30T09:47:26.414000+03:00 web-01 sshd[9466]: Failed password for invalid user oracle from 218.92.0.112 port 49288 ssh2
+2026-10-30T09:47:26.461000+03:00 web-01 sshd[9537]: Failed password for invalid user test from 218.92.0.112 port 58268 ssh2
+2026-10-30T09:47:26.659000+03:00 web-01 sshd[9496]: Failed password for invalid user test from 218.92.0.112 port 58034 ssh2
+2026-10-30T09:47:26.708000+03:00 web-01 sshd[9438]: Invalid user oracle from 218.92.0.112 port 49288
+2026-10-30T09:47:26.829000+03:00 web-01 sshd[9490]: Invalid user test from 218.92.0.112 port 58034
+2026-10-30T09:47:27.179000+03:00 web-01 sshd[9550]: Failed password for root from 218.92.0.112 port 39116 ssh2
+2026-10-30T09:47:27.287000+03:00 web-01 sshd[9640]: Failed password for admin from 218.92.0.112 port 61528 ssh2
+2026-10-30T09:47:27.549000+03:00 web-01 sshd[9600]: Invalid user oracle from 218.92.0.112 port 45677
+2026-10-30T09:47:27.582000+03:00 web-01 sshd[9626]: Failed password for invalid user oracle from 218.92.0.112 port 45677 ssh2
+2026-10-30T09:47:27.624000+03:00 web-01 sshd[9580]: Failed password for invalid user ubuntu from 218.92.0.112 port 55352 ssh2
+2026-10-30T09:47:27.912000+03:00 web-01 sshd[9569]: Invalid user ubuntu from 218.92.0.112 port 55352
+2026-10-30T09:47:28.139000+03:00 web-01 sshd[9671]: Failed password for root from 218.92.0.112 port 30779 ssh2
+2026-10-30T09:47:28.245000+03:00 web-01 sshd[9695]: Invalid user oracle from 218.92.0.112 port 40100
+2026-10-30T09:47:28.510000+03:00 web-01 sshd[9723]: Failed password for invalid user oracle from 218.92.0.112 port 53141 ssh2
+2026-10-30T09:47:28.702000+03:00 web-01 sshd[9703]: Failed password for invalid user oracle from 218.92.0.112 port 40100 ssh2
+2026-10-30T09:47:28.887000+03:00 web-01 sshd[9720]: Invalid user oracle from 218.92.0.112 port 53141
+2026-10-30T09:47:28.994000+03:00 web-01 sshd[9663]: Failed password for admin from 218.92.0.112 port 53674 ssh2
+2026-10-30T09:47:29.135000+03:00 web-01 sshd[9777]: Failed password for admin from 218.92.0.112 port 62571 ssh2
+2026-10-30T09:47:29.439000+03:00 web-01 sshd[9733]: Failed password for admin from 218.92.0.112 port 38062 ssh2
+2026-10-30T09:47:29.779000+03:00 web-01 sshd[9729]: Failed password for root from 218.92.0.112 port 36376 ssh2
+2026-10-30T09:47:29.827000+03:00 web-01 sshd[9758]: Failed password for invalid user test from 218.92.0.112 port 63093 ssh2
+2026-10-30T09:47:29.963000+03:00 web-01 sshd[9738]: Invalid user test from 218.92.0.112 port 63093
+2026-10-30T09:47:30.143000+03:00 web-01 sshd[9838]: Failed password for invalid user ubuntu from 218.92.0.112 port 56786 ssh2
+2026-10-30T09:47:30.512000+03:00 web-01 sshd[9828]: Invalid user ubuntu from 218.92.0.112 port 56786
+2026-10-30T09:47:30.578000+03:00 web-01 sshd[9802]: Failed password for admin from 218.92.0.112 port 62823 ssh2
+2026-10-30T09:47:30.742000+03:00 web-01 sshd[9804]: Failed password for root from 218.92.0.112 port 35185 ssh2
+2026-10-30T09:47:30.884000+03:00 web-01 sshd[9839]: Failed password for root from 218.92.0.112 port 42836 ssh2
+2026-10-30T09:47:31.070000+03:00 web-01 sshd[9866]: Failed password for admin from 218.92.0.112 port 49821 ssh2
+2026-10-30T09:47:31.310000+03:00 web-01 sshd[9886]: Failed password for root from 218.92.0.112 port 36376 ssh2
+2026-10-30T09:47:31.398000+03:00 web-01 sshd[9855]: Failed password for root from 218.92.0.112 port 37314 ssh2
+2026-10-30T09:47:31.767000+03:00 web-01 sshd[9871]: Failed password for root from 218.92.0.112 port 53407 ssh2
+2026-10-30T09:47:32.184000+03:00 web-01 sshd[9947]: Failed password for admin from 218.92.0.112 port 42384 ssh2
+2026-10-30T09:47:32.509000+03:00 web-01 sshd[9972]: Failed password for invalid user ubuntu from 218.92.0.112 port 53459 ssh2
+2026-10-30T09:47:32.512000+03:00 web-01 sshd[9903]: Invalid user oracle from 218.92.0.112 port 48781
+2026-10-30T09:47:32.608000+03:00 web-01 sshd[9893]: Invalid user oracle from 218.92.0.112 port 46608
+2026-10-30T09:47:32.830000+03:00 web-01 sshd[9951]: Invalid user ubuntu from 218.92.0.112 port 53459
+2026-10-30T09:47:32.912000+03:00 web-01 sshd[9902]: Failed password for invalid user oracle from 218.92.0.112 port 46608 ssh2
+2026-10-30T09:47:32.997000+03:00 web-01 sshd[9920]: Failed password for invalid user oracle from 218.92.0.112 port 48781 ssh2
+2026-10-30T09:47:33.024000+03:00 web-01 sshd[10019]: Failed password for root from 218.92.0.112 port 59265 ssh2
+2026-10-30T09:47:33.279000+03:00 web-01 sshd[9996]: Invalid user oracle from 218.92.0.112 port 59762
+2026-10-30T09:47:33.320000+03:00 web-01 sshd[10017]: Failed password for root from 218.92.0.112 port 36588 ssh2
+2026-10-30T09:47:33.571000+03:00 web-01 sshd[10027]: Failed password for admin from 218.92.0.112 port 54430 ssh2
+2026-10-30T09:47:33.699000+03:00 web-01 sshd[10010]: Failed password for invalid user oracle from 218.92.0.112 port 59762 ssh2
+2026-10-30T09:47:34.217000+03:00 web-01 sshd[10086]: Failed password for invalid user test from 218.92.0.112 port 38930 ssh2
+2026-10-30T09:47:34.373000+03:00 web-01 sshd[10098]: Failed password for root from 218.92.0.112 port 62005 ssh2
+2026-10-30T09:47:34.438000+03:00 web-01 sshd[10072]: Invalid user test from 218.92.0.112 port 38930
+2026-10-30T09:47:34.666000+03:00 web-01 sshd[10097]: Failed password for root from 218.92.0.112 port 32804 ssh2
+2026-10-30T09:47:34.679000+03:00 web-01 sshd[10056]: Failed password for admin from 218.92.0.112 port 40560 ssh2
+2026-10-30T09:47:35.129000+03:00 web-01 sshd[10169]: Failed password for root from 218.92.0.112 port 46284 ssh2
+2026-10-30T09:47:35.383000+03:00 web-01 sshd[10195]: Invalid user ubuntu from 218.92.0.112 port 60956
+2026-10-30T09:47:35.436000+03:00 web-01 sshd[10141]: Failed password for root from 218.92.0.112 port 31468 ssh2
+2026-10-30T09:47:35.471000+03:00 web-01 sshd[10126]: Failed password for invalid user test from 218.92.0.112 port 33472 ssh2
+2026-10-30T09:47:35.648000+03:00 web-01 sshd[10212]: Failed password for invalid user ubuntu from 218.92.0.112 port 60956 ssh2
+2026-10-30T09:47:35.769000+03:00 web-01 sshd[10117]: Invalid user test from 218.92.0.112 port 33472
+2026-10-30T09:47:36.063000+03:00 web-01 sshd[10264]: Failed password for invalid user test from 218.92.0.112 port 49361 ssh2
+2026-10-30T09:47:36.269000+03:00 web-01 sshd[10257]: Failed password for admin from 218.92.0.112 port 31601 ssh2
+2026-10-30T09:47:36.370000+03:00 web-01 sshd[10269]: Failed password for admin from 218.92.0.112 port 36298 ssh2
+2026-10-30T09:47:36.708000+03:00 web-01 sshd[10259]: Invalid user test from 218.92.0.112 port 49361
+2026-10-30T09:47:36.820000+03:00 web-01 sshd[10217]: Invalid user ubuntu from 218.92.0.112 port 39667
+2026-10-30T09:47:36.944000+03:00 web-01 sshd[10242]: Failed password for invalid user ubuntu from 218.92.0.112 port 39667 ssh2
+2026-10-30T09:47:37.265000+03:00 web-01 sshd[10296]: Invalid user ubuntu from 218.92.0.112 port 42269
+2026-10-30T09:47:37.353000+03:00 web-01 sshd[10347]: Failed password for root from 218.92.0.112 port 56843 ssh2
+2026-10-30T09:47:37.454000+03:00 web-01 sshd[10300]: Failed password for invalid user ubuntu from 218.92.0.112 port 42269 ssh2
+2026-10-30T09:47:37.465000+03:00 web-01 sshd[10318]: Failed password for admin from 218.92.0.112 port 42924 ssh2
+2026-10-30T09:47:37.483000+03:00 web-01 sshd[10357]: Invalid user test from 218.92.0.112 port 56734
+2026-10-30T09:47:37.709000+03:00 web-01 sshd[10360]: Failed password for invalid user test from 218.92.0.112 port 56734 ssh2
+2026-10-30T09:47:38.102000+03:00 web-01 sshd[10429]: Failed password for invalid user oracle from 218.92.0.112 port 43917 ssh2
+2026-10-30T09:47:38.154000+03:00 web-01 sshd[10378]: Failed password for root from 218.92.0.112 port 41898 ssh2
+2026-10-30T09:47:38.745000+03:00 web-01 sshd[10447]: Failed password for root from 218.92.0.112 port 38744 ssh2
+2026-10-30T09:47:38.912000+03:00 web-01 sshd[10423]: Invalid user oracle from 218.92.0.112 port 43917
+2026-10-30T09:47:38.917000+03:00 web-01 sshd[10404]: Failed password for root from 218.92.0.112 port 45795 ssh2
+2026-10-30T09:47:39.219000+03:00 web-01 sshd[10499]: Invalid user test from 218.92.0.112 port 56385
+2026-10-30T09:47:39.244000+03:00 web-01 sshd[10521]: Invalid user test from 218.92.0.112 port 38711
+2026-10-30T09:47:39.267000+03:00 web-01 sshd[10476]: Failed password for admin from 218.92.0.112 port 58396 ssh2
+2026-10-30T09:47:39.374000+03:00 web-01 sshd[10503]: Failed password for invalid user test from 218.92.0.112 port 56385 ssh2
+2026-10-30T09:47:39.530000+03:00 web-01 sshd[10468]: Failed password for admin from 218.92.0.112 port 60961 ssh2
+2026-10-30T09:47:39.639000+03:00 web-01 sshd[10530]: Failed password for invalid user test from 218.92.0.112 port 38711 ssh2
+2026-10-30T09:47:40.334000+03:00 web-01 sshd[10552]: Failed password for root from 218.92.0.112 port 62106 ssh2
+2026-10-30T09:47:40.517000+03:00 web-01 sshd[10578]: Failed password for root from 218.92.0.112 port 37496 ssh2
+2026-10-30T09:47:40.630000+03:00 web-01 sshd[10625]: Failed password for invalid user ubuntu from 218.92.0.112 port 36766 ssh2
+2026-10-30T09:47:40.674000+03:00 web-01 sshd[10609]: Invalid user ubuntu from 218.92.0.112 port 36766
+2026-10-30T09:47:40.736000+03:00 web-01 sshd[10608]: Failed password for admin from 218.92.0.112 port 61063 ssh2
+2026-10-30T09:47:41.225000+03:00 web-01 sshd[10702]: Failed password for invalid user oracle from 218.92.0.112 port 38850 ssh2
+2026-10-30T09:47:41.633000+03:00 web-01 sshd[10711]: Failed password for admin from 218.92.0.112 port 62832 ssh2
+2026-10-30T09:47:41.666000+03:00 web-01 sshd[10645]: Failed password for admin from 218.92.0.112 port 64494 ssh2
+2026-10-30T09:47:41.775000+03:00 web-01 sshd[10655]: Failed password for root from 218.92.0.112 port 59742 ssh2
+2026-10-30T09:47:41.901000+03:00 web-01 sshd[10674]: Invalid user oracle from 218.92.0.112 port 38850
+2026-10-30T09:47:42.252000+03:00 web-01 sshd[10762]: Invalid user ubuntu from 218.92.0.112 port 60616
+2026-10-30T09:47:42.375000+03:00 web-01 sshd[10739]: Failed password for admin from 218.92.0.112 port 49606 ssh2
+2026-10-30T09:47:42.468000+03:00 web-01 sshd[10771]: Failed password for invalid user ubuntu from 218.92.0.112 port 60616 ssh2
+2026-10-30T09:47:42.641000+03:00 web-01 sshd[10748]: Failed password for admin from 218.92.0.112 port 59819 ssh2
+2026-10-30T09:47:42.981000+03:00 web-01 sshd[10787]: Failed password for root from 218.92.0.112 port 41196 ssh2
+2026-10-30T09:47:43.120000+03:00 web-01 sshd[10880]: Failed password for invalid user ubuntu from 218.92.0.112 port 35745 ssh2
+2026-10-30T09:47:43.321000+03:00 web-01 sshd[10855]: Invalid user ubuntu from 218.92.0.112 port 35745
+2026-10-30T09:47:43.365000+03:00 web-01 sshd[10794]: Failed password for admin from 218.92.0.112 port 56698 ssh2
+2026-10-30T09:47:43.547000+03:00 web-01 sshd[10814]: Failed password for root from 218.92.0.112 port 41530 ssh2
+2026-10-30T09:47:43.852000+03:00 web-01 sshd[10832]: Failed password for root from 218.92.0.112 port 44277 ssh2
+2026-10-30T09:47:44.206000+03:00 web-01 sshd[10967]: Failed password for invalid user ubuntu from 218.92.0.112 port 33139 ssh2
+2026-10-30T09:47:44.393000+03:00 web-01 sshd[10936]: Failed password for admin from 218.92.0.112 port 55584 ssh2
+2026-10-30T09:47:44.488000+03:00 web-01 sshd[10904]: Invalid user oracle from 218.92.0.112 port 41284
+2026-10-30T09:47:44.532000+03:00 web-01 sshd[10927]: Failed password for invalid user oracle from 218.92.0.112 port 41284 ssh2
+2026-10-30T09:47:44.550000+03:00 web-01 sshd[10889]: Invalid user ubuntu from 218.92.0.112 port 42721
+2026-10-30T09:47:44.879000+03:00 web-01 sshd[10894]: Failed password for invalid user ubuntu from 218.92.0.112 port 42721 ssh2
+2026-10-30T09:47:44.987000+03:00 web-01 sshd[10960]: Invalid user ubuntu from 218.92.0.112 port 33139
+2026-10-30T09:47:45.034000+03:00 web-01 sshd[10989]: Failed password for root from 218.92.0.112 port 61196 ssh2
+2026-10-30T09:47:45.276000+03:00 web-01 sshd[10987]: Failed password for admin from 218.92.0.112 port 63671 ssh2
+2026-10-30T09:47:45.336000+03:00 web-01 sshd[10969]: Failed password for root from 218.92.0.112 port 43164 ssh2
+2026-10-30T09:47:45.363000+03:00 web-01 sshd[11006]: Invalid user oracle from 218.92.0.112 port 57239
+2026-10-30T09:47:45.964000+03:00 web-01 sshd[11014]: Failed password for invalid user oracle from 218.92.0.112 port 57239 ssh2
+2026-10-30T09:47:46.064000+03:00 web-01 sshd[11078]: Failed password for invalid user test from 218.92.0.112 port 33296 ssh2
+2026-10-30T09:47:46.363000+03:00 web-01 sshd[11086]: Failed password for root from 218.92.0.112 port 43655 ssh2
+2026-10-30T09:47:46.670000+03:00 web-01 sshd[11113]: Failed password for root from 218.92.0.112 port 53414 ssh2
+2026-10-30T09:47:46.768000+03:00 web-01 sshd[11039]: Failed password for root from 218.92.0.112 port 38292 ssh2
+2026-10-30T09:47:46.854000+03:00 web-01 sshd[11066]: Invalid user test from 218.92.0.112 port 33296
+2026-10-30T09:47:47.150000+03:00 web-01 sshd[11162]: Failed password for root from 218.92.0.112 port 45920 ssh2
+2026-10-30T09:47:47.458000+03:00 web-01 sshd[11176]: Failed password for admin from 218.92.0.112 port 62243 ssh2
+2026-10-30T09:47:47.538000+03:00 web-01 sshd[11181]: Failed password for root from 218.92.0.112 port 49252 ssh2
+2026-10-30T09:47:47.778000+03:00 web-01 sshd[11160]: Failed password for invalid user ubuntu from 218.92.0.112 port 48308 ssh2
+2026-10-30T09:47:47.929000+03:00 web-01 sshd[11136]: Invalid user ubuntu from 218.92.0.112 port 48308
+2026-10-30T09:47:48.043000+03:00 web-01 sshd[11275]: Failed password for root from 218.92.0.112 port 50677 ssh2
+2026-10-30T09:47:48.375000+03:00 web-01 sshd[11225]: Failed password for root from 218.92.0.112 port 64741 ssh2
+2026-10-30T09:47:48.786000+03:00 web-01 sshd[11211]: Failed password for root from 218.92.0.112 port 43295 ssh2
+2026-10-30T09:47:48.915000+03:00 web-01 sshd[11253]: Failed password for root from 218.92.0.112 port 44883 ssh2
+2026-10-30T09:47:49.009000+03:00 web-01 sshd[11298]: Failed password for invalid user test from 218.92.0.112 port 45501 ssh2
+2026-10-30T09:47:49.077000+03:00 web-01 sshd[11321]: Failed password for invalid user oracle from 218.92.0.112 port 30209 ssh2
+2026-10-30T09:47:49.185000+03:00 web-01 sshd[11317]: Invalid user oracle from 218.92.0.112 port 30209
+2026-10-30T09:47:49.349000+03:00 web-01 sshd[11328]: Invalid user oracle from 218.92.0.112 port 61982
+2026-10-30T09:47:49.419000+03:00 web-01 sshd[11284]: Invalid user test from 218.92.0.112 port 45501
+2026-10-30T09:47:49.693000+03:00 web-01 sshd[11376]: Invalid user test from 218.92.0.112 port 30206
+2026-10-30T09:47:49.919000+03:00 web-01 sshd[11353]: Failed password for invalid user oracle from 218.92.0.112 port 61982 ssh2
+2026-10-30T09:47:49.992000+03:00 web-01 sshd[11377]: Failed password for invalid user test from 218.92.0.112 port 30206 ssh2
+2026-10-30T09:47:50.232000+03:00 web-01 sshd[11442]: Failed password for root from 218.92.0.112 port 64318 ssh2
+2026-10-30T09:47:50.276000+03:00 web-01 sshd[11470]: Invalid user test from 218.92.0.112 port 40732
+2026-10-30T09:47:50.548000+03:00 web-01 sshd[11396]: Invalid user test from 218.92.0.112 port 52809
+2026-10-30T09:47:50.652000+03:00 web-01 sshd[11481]: Failed password for invalid user test from 218.92.0.112 port 40732 ssh2
+2026-10-30T09:47:50.700000+03:00 web-01 sshd[11488]: Failed password for root from 218.92.0.112 port 41498 ssh2
+2026-10-30T09:47:50.712000+03:00 web-01 sshd[11413]: Failed password for invalid user test from 218.92.0.112 port 52809 ssh2
+2026-10-30T09:47:51.042000+03:00 web-01 sshd[11563]: Failed password for invalid user ubuntu from 218.92.0.112 port 48983 ssh2
+2026-10-30T09:47:51.056000+03:00 web-01 sshd[11517]: Failed password for root from 218.92.0.112 port 33299 ssh2
+2026-10-30T09:47:51.218000+03:00 web-01 sshd[11547]: Failed password for admin from 218.92.0.112 port 34425 ssh2
+2026-10-30T09:47:51.798000+03:00 web-01 sshd[11489]: Failed password for admin from 218.92.0.112 port 43298 ssh2
+2026-10-30T09:47:51.906000+03:00 web-01 sshd[11561]: Invalid user ubuntu from 218.92.0.112 port 48983
+2026-10-30T09:47:52.024000+03:00 web-01 sshd[11632]: Invalid user ubuntu from 218.92.0.112 port 33918
+2026-10-30T09:47:52.037000+03:00 web-01 sshd[11659]: Failed password for root from 218.92.0.112 port 37894 ssh2
+2026-10-30T09:47:52.349000+03:00 web-01 sshd[11642]: Failed password for root from 218.92.0.112 port 54345 ssh2
+2026-10-30T09:47:52.454000+03:00 web-01 sshd[11602]: Failed password for invalid user test from 218.92.0.112 port 42149 ssh2
+2026-10-30T09:47:52.488000+03:00 web-01 sshd[11638]: Failed password for invalid user ubuntu from 218.92.0.112 port 33918 ssh2
+2026-10-30T09:47:52.823000+03:00 web-01 sshd[11581]: Invalid user test from 218.92.0.112 port 42149
+2026-10-30T09:47:53.157000+03:00 web-01 sshd[11694]: Failed password for invalid user test from 218.92.0.112 port 59685 ssh2
+2026-10-30T09:47:53.282000+03:00 web-01 sshd[11779]: Failed password for invalid user test from 218.92.0.112 port 32532 ssh2
+2026-10-30T09:47:53.324000+03:00 web-01 sshd[11732]: Failed password for root from 218.92.0.112 port 62935 ssh2
+2026-10-30T09:47:53.666000+03:00 web-01 sshd[11701]: Invalid user test from 218.92.0.112 port 36123
+2026-10-30T09:47:53.741000+03:00 web-01 sshd[11731]: Failed password for invalid user test from 218.92.0.112 port 36123 ssh2
+2026-10-30T09:47:53.795000+03:00 web-01 sshd[11684]: Invalid user test from 218.92.0.112 port 59685
+2026-10-30T09:47:53.843000+03:00 web-01 sshd[11750]: Invalid user test from 218.92.0.112 port 32532
+2026-10-30T09:47:54.290000+03:00 web-01 sshd[11787]: Failed password for admin from 218.92.0.112 port 35628 ssh2
+2026-10-30T09:47:54.460000+03:00 web-01 sshd[11849]: Failed password for root from 218.92.0.112 port 44560 ssh2
+2026-10-30T09:47:54.544000+03:00 web-01 sshd[11840]: Failed password for root from 218.92.0.112 port 55823 ssh2
+2026-10-30T09:47:54.550000+03:00 web-01 sshd[11828]: Failed password for invalid user oracle from 218.92.0.112 port 31174 ssh2
+2026-10-30T09:47:54.888000+03:00 web-01 sshd[11811]: Invalid user oracle from 218.92.0.112 port 31174
+2026-10-30T09:47:55.564000+03:00 web-01 sshd[11916]: Invalid user oracle from 218.92.0.112 port 52855
+2026-10-30T09:47:55.724000+03:00 web-01 sshd[11919]: Failed password for invalid user oracle from 218.92.0.112 port 52855 ssh2
+2026-10-30T09:47:55.727000+03:00 web-01 sshd[11875]: Failed password for admin from 218.92.0.112 port 41313 ssh2
+2026-10-30T09:47:55.815000+03:00 web-01 sshd[11897]: Failed password for admin from 218.92.0.112 port 57419 ssh2
+2026-10-30T09:47:55.978000+03:00 web-01 sshd[11938]: Failed password for root from 218.92.0.112 port 63627 ssh2
+2026-10-30T09:47:56.165000+03:00 web-01 sshd[12005]: Failed password for invalid user ubuntu from 218.92.0.112 port 31259 ssh2
+2026-10-30T09:47:56.244000+03:00 web-01 sshd[6187]: Accepted publickey for admin from 10.0.1.7 port 56145 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:47:56.477000+03:00 web-01 sshd[11958]: Failed password for invalid user oracle from 218.92.0.112 port 36160 ssh2
+2026-10-30T09:47:56.518000+03:00 web-01 sshd[12010]: Invalid user oracle from 218.92.0.112 port 39943
+2026-10-30T09:47:56.651000+03:00 web-01 sshd[11992]: Invalid user ubuntu from 218.92.0.112 port 31259
+2026-10-30T09:47:56.671000+03:00 web-01 sshd[11940]: Invalid user oracle from 218.92.0.112 port 36160
+2026-10-30T09:47:56.824000+03:00 web-01 sshd[12019]: Failed password for invalid user oracle from 218.92.0.112 port 39943 ssh2
+2026-10-30T09:47:56.836000+03:00 web-01 sshd[11985]: Failed password for root from 218.92.0.112 port 38618 ssh2
+2026-10-30T09:47:57.149000+03:00 web-01 sshd[12050]: Failed password for root from 218.92.0.112 port 44575 ssh2
+2026-10-30T09:47:57.154000+03:00 web-01 sshd[12035]: Failed password for root from 218.92.0.112 port 47343 ssh2
+2026-10-30T09:47:57.302000+03:00 web-01 sshd[12044]: Failed password for root from 218.92.0.112 port 51960 ssh2
+2026-10-30T09:47:57.876000+03:00 web-01 sshd[12053]: Invalid user test from 218.92.0.112 port 60570
+2026-10-30T09:47:57.922000+03:00 web-01 sshd[12059]: Failed password for invalid user test from 218.92.0.112 port 60570 ssh2
+2026-10-30T09:47:58.133000+03:00 web-01 sshd[12068]: Invalid user test from 218.92.0.112 port 39268
+2026-10-30T09:47:58.216000+03:00 web-01 sshd[12126]: Failed password for root from 218.92.0.112 port 50000 ssh2
+2026-10-30T09:47:58.692000+03:00 web-01 sshd[12096]: Failed password for root from 218.92.0.112 port 47499 ssh2
+2026-10-30T09:47:58.815000+03:00 web-01 sshd[12076]: Failed password for invalid user test from 218.92.0.112 port 39268 ssh2
+2026-10-30T09:47:58.819000+03:00 web-01 sshd[12123]: Failed password for root from 218.92.0.112 port 39273 ssh2
+2026-10-30T09:47:59.046000+03:00 web-01 sshd[12154]: Invalid user ubuntu from 218.92.0.112 port 30537
+2026-10-30T09:47:59.246000+03:00 web-01 sshd[12202]: Failed password for admin from 218.92.0.112 port 52711 ssh2
+2026-10-30T09:47:59.492000+03:00 web-01 sshd[12173]: Failed password for invalid user ubuntu from 218.92.0.112 port 30537 ssh2
+2026-10-30T09:47:59.664000+03:00 web-01 sshd[12216]: Failed password for admin from 218.92.0.112 port 54981 ssh2
+2026-10-30T09:47:59.729000+03:00 web-01 sshd[12211]: Failed password for root from 218.92.0.112 port 46615 ssh2
+2026-10-30T09:48:00.160000+03:00 web-01 sshd[12254]: Failed password for invalid user oracle from 218.92.0.112 port 59788 ssh2
+2026-10-30T09:48:00.310000+03:00 web-01 sshd[12324]: Failed password for root from 218.92.0.112 port 57112 ssh2
+2026-10-30T09:48:00.319000+03:00 web-01 sshd[12275]: Failed password for invalid user test from 218.92.0.112 port 34279 ssh2
+2026-10-30T09:48:00.453000+03:00 web-01 sshd[12232]: Invalid user oracle from 218.92.0.112 port 59788
+2026-10-30T09:48:00.625000+03:00 web-01 sudo[6209]: admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/systemctl status order-api
+2026-10-30T09:48:00.790000+03:00 web-01 CRON[6235]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:48:00.790000+03:00 web-01 sshd[12299]: Failed password for admin from 218.92.0.112 port 43459 ssh2
+2026-10-30T09:48:00.882000+03:00 web-01 sshd[12260]: Invalid user test from 218.92.0.112 port 34279
+2026-10-30T09:48:01.117000+03:00 web-01 sshd[12348]: Failed password for invalid user ubuntu from 218.92.0.112 port 37646 ssh2
+2026-10-30T09:48:01.174000+03:00 web-01 sshd[12376]: Failed password for invalid user oracle from 218.92.0.112 port 59629 ssh2
+2026-10-30T09:48:01.545000+03:00 web-01 sshd[12408]: Failed password for admin from 218.92.0.112 port 40506 ssh2
+2026-10-30T09:48:01.616000+03:00 web-01 sshd[12353]: Invalid user oracle from 218.92.0.112 port 59629
+2026-10-30T09:48:01.688000+03:00 web-01 sshd[12345]: Invalid user ubuntu from 218.92.0.112 port 37646
+2026-10-30T09:48:01.691000+03:00 web-01 sshd[12400]: Failed password for invalid user test from 218.92.0.112 port 54852 ssh2
+2026-10-30T09:48:01.903000+03:00 web-01 sshd[12386]: Invalid user test from 218.92.0.112 port 54852
+2026-10-30T09:48:02.136000+03:00 web-01 sshd[12474]: Failed password for invalid user test from 218.92.0.112 port 32391 ssh2
+2026-10-30T09:48:02.209000+03:00 web-01 sshd[12460]: Invalid user test from 218.92.0.112 port 32391
+2026-10-30T09:48:02.453000+03:00 web-01 sshd[12450]: Failed password for root from 218.92.0.112 port 37815 ssh2
+2026-10-30T09:48:02.626000+03:00 web-01 sshd[12436]: Failed password for root from 218.92.0.112 port 35468 ssh2
+2026-10-30T09:48:02.931000+03:00 web-01 sshd[12432]: Failed password for invalid user ubuntu from 218.92.0.112 port 49735 ssh2
+2026-10-30T09:48:02.933000+03:00 web-01 sshd[12422]: Invalid user ubuntu from 218.92.0.112 port 49735
+2026-10-30T09:48:03.008000+03:00 web-01 sshd[12577]: Invalid user test from 218.92.0.112 port 48383
+2026-10-30T09:48:03.086000+03:00 web-01 sshd[12592]: Failed password for invalid user test from 218.92.0.112 port 48383 ssh2
+2026-10-30T09:48:03.518000+03:00 web-01 sshd[12533]: Invalid user test from 218.92.0.112 port 55624
+2026-10-30T09:48:03.528000+03:00 web-01 sshd[12558]: Failed password for root from 218.92.0.112 port 56846 ssh2
+2026-10-30T09:48:03.909000+03:00 web-01 sshd[12539]: Failed password for invalid user test from 218.92.0.112 port 55624 ssh2
+2026-10-30T09:48:03.923000+03:00 web-01 sshd[12503]: Invalid user test from 218.92.0.112 port 45595
+2026-10-30T09:48:03.923000+03:00 web-01 sshd[12531]: Failed password for invalid user test from 218.92.0.112 port 45595 ssh2
+2026-10-30T09:48:04.169000+03:00 web-01 sshd[12621]: Failed password for admin from 218.92.0.112 port 42879 ssh2
+2026-10-30T09:48:04.541000+03:00 web-01 sshd[12596]: Invalid user test from 218.92.0.112 port 46253
+2026-10-30T09:48:04.570000+03:00 web-01 sshd[12663]: Failed password for root from 218.92.0.112 port 31600 ssh2
+2026-10-30T09:48:04.722000+03:00 web-01 sshd[12640]: Failed password for admin from 218.92.0.112 port 40053 ssh2
+2026-10-30T09:48:04.785000+03:00 web-01 sshd[12617]: Failed password for invalid user test from 218.92.0.112 port 46253 ssh2
+2026-10-30T09:48:05.217000+03:00 web-01 sshd[12696]: Failed password for invalid user ubuntu from 218.92.0.112 port 51897 ssh2
+2026-10-30T09:48:05.409000+03:00 web-01 sshd[12728]: Failed password for invalid user test from 218.92.0.112 port 49482 ssh2
+2026-10-30T09:48:05.433000+03:00 web-01 sshd[12701]: Invalid user test from 218.92.0.112 port 49482
+2026-10-30T09:48:05.556000+03:00 web-01 sshd[12677]: Failed password for admin from 218.92.0.112 port 61208 ssh2
+2026-10-30T09:48:05.961000+03:00 web-01 sshd[12684]: Invalid user ubuntu from 218.92.0.112 port 51897
+2026-10-30T09:48:05.997000+03:00 web-01 sshd[12683]: Failed password for root from 218.92.0.112 port 47733 ssh2
+2026-10-30T09:48:06.134000+03:00 web-01 sshd[12780]: Failed password for invalid user oracle from 218.92.0.112 port 36804 ssh2
+2026-10-30T09:48:06.177000+03:00 web-01 sshd[12745]: Failed password for root from 218.92.0.112 port 36476 ssh2
+2026-10-30T09:48:06.356000+03:00 web-01 sshd[12777]: Invalid user oracle from 218.92.0.112 port 36804
+2026-10-30T09:48:06.445000+03:00 web-01 sshd[12803]: Failed password for admin from 218.92.0.112 port 56629 ssh2
+2026-10-30T09:48:06.549000+03:00 web-01 sshd[12769]: Failed password for root from 218.92.0.112 port 62450 ssh2
+2026-10-30T09:48:07.274000+03:00 web-01 sshd[12900]: Failed password for invalid user oracle from 218.92.0.112 port 55455 ssh2
+2026-10-30T09:48:07.462000+03:00 web-01 sshd[12829]: Failed password for admin from 218.92.0.112 port 39225 ssh2
+2026-10-30T09:48:07.571000+03:00 web-01 sshd[12849]: Failed password for invalid user ubuntu from 218.92.0.112 port 53251 ssh2
+2026-10-30T09:48:07.817000+03:00 web-01 sshd[12856]: Invalid user ubuntu from 218.92.0.112 port 60935
+2026-10-30T09:48:07.826000+03:00 web-01 sshd[12891]: Invalid user oracle from 218.92.0.112 port 55455
+2026-10-30T09:48:07.906000+03:00 web-01 sshd[12870]: Failed password for invalid user ubuntu from 218.92.0.112 port 60935 ssh2
+2026-10-30T09:48:07.959000+03:00 web-01 sshd[12842]: Invalid user ubuntu from 218.92.0.112 port 53251
+2026-10-30T09:48:08.063000+03:00 web-01 sshd[12963]: Failed password for invalid user oracle from 218.92.0.112 port 62216 ssh2
+2026-10-30T09:48:08.507000+03:00 web-01 sshd[12991]: Invalid user oracle from 218.92.0.112 port 64515
+2026-10-30T09:48:08.558000+03:00 web-01 sshd[12928]: Failed password for root from 218.92.0.112 port 40805 ssh2
+2026-10-30T09:48:08.598000+03:00 web-01 sshd[12937]: Failed password for root from 218.92.0.112 port 47722 ssh2
+2026-10-30T09:48:08.872000+03:00 web-01 sshd[12952]: Invalid user oracle from 218.92.0.112 port 62216
+2026-10-30T09:48:08.915000+03:00 web-01 sshd[13017]: Failed password for invalid user oracle from 218.92.0.112 port 64515 ssh2
+2026-10-30T09:48:09.083000+03:00 web-01 sshd[13088]: Failed password for invalid user ubuntu from 218.92.0.112 port 62940 ssh2
+2026-10-30T09:48:09.279000+03:00 web-01 sshd[13044]: Failed password for root from 218.92.0.112 port 45878 ssh2
+2026-10-30T09:48:09.325000+03:00 web-01 sshd[13071]: Failed password for admin from 218.92.0.112 port 43695 ssh2
+2026-10-30T09:48:09.333000+03:00 web-01 sshd[13084]: Invalid user ubuntu from 218.92.0.112 port 62940
+2026-10-30T09:48:09.403000+03:00 web-01 sshd[13130]: Failed password for invalid user test from 218.92.0.112 port 55776 ssh2
+2026-10-30T09:48:09.755000+03:00 web-01 sshd[13118]: Invalid user test from 218.92.0.112 port 55776
+2026-10-30T09:48:10.170000+03:00 web-01 sshd[13202]: Invalid user ubuntu from 218.92.0.112 port 58472
+2026-10-30T09:48:10.326000+03:00 web-01 sshd[13170]: Failed password for invalid user oracle from 218.92.0.112 port 48675 ssh2
+2026-10-30T09:48:10.452000+03:00 web-01 sshd[13131]: Invalid user ubuntu from 218.92.0.112 port 60936
+2026-10-30T09:48:10.549000+03:00 web-01 sshd[13144]: Failed password for invalid user ubuntu from 218.92.0.112 port 60936 ssh2
+2026-10-30T09:48:10.843000+03:00 web-01 sshd[13215]: Failed password for invalid user ubuntu from 218.92.0.112 port 58472 ssh2
+2026-10-30T09:48:10.862000+03:00 web-01 sshd[13190]: Failed password for admin from 218.92.0.112 port 45100 ssh2
+2026-10-30T09:48:10.984000+03:00 web-01 sshd[13157]: Invalid user oracle from 218.92.0.112 port 48675
+2026-10-30T09:48:11.269000+03:00 web-01 sshd[13243]: Failed password for root from 218.92.0.112 port 61873 ssh2
+2026-10-30T09:48:11.475000+03:00 web-01 sshd[13312]: Failed password for root from 218.92.0.112 port 46517 ssh2
+2026-10-30T09:48:11.526000+03:00 web-01 sshd[13291]: Failed password for root from 218.92.0.112 port 51425 ssh2
+2026-10-30T09:48:11.818000+03:00 web-01 sshd[13256]: Invalid user test from 218.92.0.112 port 44074
+2026-10-30T09:48:11.935000+03:00 web-01 sshd[13284]: Failed password for invalid user test from 218.92.0.112 port 44074 ssh2
+2026-10-30T09:48:12.193000+03:00 web-01 sshd[13317]: Failed password for root from 218.92.0.112 port 59265 ssh2
+2026-10-30T09:48:12.237000+03:00 web-01 sshd[13333]: Invalid user test from 218.92.0.112 port 37358
+2026-10-30T09:48:12.427000+03:00 web-01 sshd[13329]: Failed password for admin from 218.92.0.112 port 36092 ssh2
+2026-10-30T09:48:12.689000+03:00 web-01 sshd[13362]: Failed password for invalid user test from 218.92.0.112 port 37358 ssh2
+2026-10-30T09:48:12.926000+03:00 web-01 sshd[13316]: Failed password for root from 218.92.0.112 port 64952 ssh2
+2026-10-30T09:48:13.154000+03:00 web-01 sshd[13434]: Failed password for admin from 218.92.0.112 port 60029 ssh2
+2026-10-30T09:48:13.376000+03:00 web-01 sshd[13464]: Failed password for invalid user test from 218.92.0.112 port 56763 ssh2
+2026-10-30T09:48:13.390000+03:00 web-01 sshd[13386]: Invalid user test from 218.92.0.112 port 31537
+2026-10-30T09:48:13.840000+03:00 web-01 sshd[13410]: Failed password for invalid user test from 218.92.0.112 port 31537 ssh2
+2026-10-30T09:48:13.858000+03:00 web-01 sshd[13452]: Invalid user test from 218.92.0.112 port 56763
+2026-10-30T09:48:13.897000+03:00 web-01 sshd[13446]: Failed password for root from 218.92.0.112 port 34632 ssh2
+2026-10-30T09:48:14.133000+03:00 web-01 sshd[13522]: Invalid user test from 218.92.0.112 port 63398
+2026-10-30T09:48:14.615000+03:00 web-01 sshd[13492]: Failed password for root from 218.92.0.112 port 46882 ssh2
+2026-10-30T09:48:14.681000+03:00 web-01 sshd[13482]: Failed password for admin from 218.92.0.112 port 50365 ssh2
+2026-10-30T09:48:14.766000+03:00 web-01 sshd[13546]: Failed password for invalid user test from 218.92.0.112 port 63398 ssh2
+2026-10-30T09:48:14.994000+03:00 web-01 sshd[13489]: Failed password for root from 218.92.0.112 port 37028 ssh2
+2026-10-30T09:48:15.065000+03:00 web-01 sshd[13641]: Invalid user ubuntu from 218.92.0.112 port 58247
+2026-10-30T09:48:15.312000+03:00 web-01 sshd[13621]: Failed password for invalid user oracle from 218.92.0.112 port 31522 ssh2
+2026-10-30T09:48:15.367000+03:00 web-01 sshd[13626]: Failed password for root from 218.92.0.112 port 47193 ssh2
+2026-10-30T09:48:15.525000+03:00 web-01 sshd[13603]: Invalid user oracle from 218.92.0.112 port 31522
+2026-10-30T09:48:15.862000+03:00 web-01 sshd[13665]: Failed password for invalid user ubuntu from 218.92.0.112 port 58247 ssh2
+2026-10-30T09:48:15.907000+03:00 web-01 sshd[13576]: Failed password for admin from 218.92.0.112 port 51734 ssh2
+2026-10-30T09:48:16.423000+03:00 web-01 sshd[13729]: Failed password for admin from 218.92.0.112 port 49703 ssh2
+2026-10-30T09:48:16.467000+03:00 web-01 sshd[13755]: Failed password for admin from 218.92.0.112 port 61663 ssh2
+2026-10-30T09:48:16.530000+03:00 web-01 sshd[13696]: Failed password for invalid user oracle from 218.92.0.112 port 37592 ssh2
+2026-10-30T09:48:16.625000+03:00 web-01 sshd[13716]: Failed password for invalid user test from 218.92.0.112 port 50129 ssh2
+2026-10-30T09:48:16.713000+03:00 web-01 sshd[13711]: Invalid user test from 218.92.0.112 port 50129
+2026-10-30T09:48:16.919000+03:00 web-01 sshd[13683]: Invalid user oracle from 218.92.0.112 port 37592
+2026-10-30T09:48:17.023000+03:00 web-01 sshd[13822]: Invalid user ubuntu from 218.92.0.112 port 64859
+2026-10-30T09:48:17.349000+03:00 web-01 sshd[13781]: Failed password for root from 218.92.0.112 port 51642 ssh2
+2026-10-30T09:48:17.499000+03:00 web-01 sshd[13797]: Failed password for root from 218.92.0.112 port 54003 ssh2
+2026-10-30T09:48:17.970000+03:00 web-01 sshd[13786]: Failed password for admin from 218.92.0.112 port 63276 ssh2
+2026-10-30T09:48:17.995000+03:00 web-01 sshd[13843]: Failed password for invalid user ubuntu from 218.92.0.112 port 64859 ssh2
+2026-10-30T09:48:18.043000+03:00 web-01 sshd[13863]: Failed password for invalid user oracle from 218.92.0.112 port 40174 ssh2
+2026-10-30T09:48:18.090000+03:00 web-01 sshd[13846]: Invalid user oracle from 218.92.0.112 port 40174
+2026-10-30T09:48:18.209000+03:00 web-01 sshd[13902]: Failed password for invalid user oracle from 218.92.0.112 port 58529 ssh2
+2026-10-30T09:48:18.337000+03:00 web-01 sshd[13944]: Invalid user oracle from 218.92.0.112 port 47428
+2026-10-30T09:48:18.341000+03:00 web-01 sshd[13950]: Failed password for invalid user oracle from 218.92.0.112 port 47428 ssh2
+2026-10-30T09:48:18.444000+03:00 web-01 sshd[13876]: Invalid user oracle from 218.92.0.112 port 58529
+2026-10-30T09:48:18.536000+03:00 web-01 sshd[13926]: Failed password for admin from 218.92.0.112 port 52189 ssh2
+2026-10-30T09:48:19.006000+03:00 web-01 sshd[14028]: Failed password for invalid user ubuntu from 218.92.0.112 port 55730 ssh2
+2026-10-30T09:48:19.154000+03:00 web-01 sshd[13998]: Failed password for invalid user oracle from 218.92.0.112 port 34039 ssh2
+2026-10-30T09:48:19.183000+03:00 web-01 sshd[14027]: Invalid user ubuntu from 218.92.0.112 port 55730
+2026-10-30T09:48:19.373000+03:00 web-01 sshd[14054]: Failed password for admin from 218.92.0.112 port 52111 ssh2
+2026-10-30T09:48:19.565000+03:00 web-01 sshd[13994]: Invalid user oracle from 218.92.0.112 port 34039
+2026-10-30T09:48:19.971000+03:00 web-01 sshd[13969]: Failed password for root from 218.92.0.112 port 44759 ssh2
+2026-10-30T09:48:20.024000+03:00 web-01 sshd[14065]: Failed password for root from 218.92.0.112 port 59049 ssh2
+2026-10-30T09:48:20.223000+03:00 web-01 sshd[14109]: Failed password for invalid user oracle from 218.92.0.112 port 59074 ssh2
+2026-10-30T09:48:20.829000+03:00 web-01 sshd[14120]: Failed password for root from 218.92.0.112 port 57494 ssh2
+2026-10-30T09:48:20.985000+03:00 web-01 sshd[14080]: Invalid user oracle from 218.92.0.112 port 59074
+2026-10-30T09:48:20.998000+03:00 web-01 sshd[14133]: Failed password for root from 218.92.0.112 port 51573 ssh2
+2026-10-30T09:48:21.016000+03:00 web-01 sshd[14196]: Failed password for invalid user oracle from 218.92.0.112 port 34981 ssh2
+2026-10-30T09:48:21.246000+03:00 web-01 sshd[14186]: Invalid user oracle from 218.92.0.112 port 34981
+2026-10-30T09:48:21.276000+03:00 web-01 sshd[14179]: Failed password for invalid user oracle from 218.92.0.112 port 39393 ssh2
+2026-10-30T09:48:21.297000+03:00 web-01 sshd[14174]: Invalid user oracle from 218.92.0.112 port 39393
+2026-10-30T09:48:21.549000+03:00 web-01 sshd[14142]: Failed password for root from 218.92.0.112 port 63108 ssh2
+2026-10-30T09:48:21.592000+03:00 web-01 sshd[14149]: Failed password for admin from 218.92.0.112 port 31208 ssh2
+2026-10-30T09:48:22.012000+03:00 web-01 sshd[14266]: Failed password for invalid user test from 218.92.0.112 port 62122 ssh2
+2026-10-30T09:48:22.457000+03:00 web-01 sshd[14240]: Invalid user test from 218.92.0.112 port 62122
+2026-10-30T09:48:22.462000+03:00 web-01 sshd[14227]: Failed password for invalid user test from 218.92.0.112 port 35261 ssh2
+2026-10-30T09:48:22.595000+03:00 web-01 sshd[14310]: Failed password for invalid user test from 218.92.0.112 port 59833 ssh2
+2026-10-30T09:48:22.677000+03:00 web-01 sshd[14221]: Invalid user test from 218.92.0.112 port 35261
+2026-10-30T09:48:22.896000+03:00 web-01 sshd[14339]: Failed password for root from 218.92.0.112 port 63733 ssh2
+2026-10-30T09:48:22.978000+03:00 web-01 sshd[14292]: Invalid user test from 218.92.0.112 port 59833
+2026-10-30T09:48:23.089000+03:00 web-01 sshd[14370]: Failed password for invalid user ubuntu from 218.92.0.112 port 61609 ssh2
+2026-10-30T09:48:23.226000+03:00 web-01 sshd[14356]: Failed password for admin from 218.92.0.112 port 43488 ssh2
+2026-10-30T09:48:23.324000+03:00 web-01 sshd[14367]: Invalid user ubuntu from 218.92.0.112 port 61609
+2026-10-30T09:48:23.617000+03:00 web-01 sshd[14375]: Failed password for root from 218.92.0.112 port 32994 ssh2
+2026-10-30T09:48:23.700000+03:00 web-01 sshd[14373]: Failed password for admin from 218.92.0.112 port 53400 ssh2
+2026-10-30T09:48:24.327000+03:00 web-01 sshd[14385]: Invalid user oracle from 218.92.0.112 port 57927
+2026-10-30T09:48:24.563000+03:00 web-01 sshd[14439]: Failed password for root from 218.92.0.112 port 53322 ssh2
+2026-10-30T09:48:24.718000+03:00 web-01 sshd[14468]: Failed password for admin from 218.92.0.112 port 46110 ssh2
+2026-10-30T09:48:24.784000+03:00 web-01 sshd[14410]: Failed password for invalid user oracle from 218.92.0.112 port 57927 ssh2
+2026-10-30T09:48:24.854000+03:00 web-01 sshd[14420]: Failed password for admin from 218.92.0.112 port 37493 ssh2
+2026-10-30T09:48:25.182000+03:00 web-01 sshd[14507]: Failed password for invalid user oracle from 218.92.0.112 port 42569 ssh2
+2026-10-30T09:48:25.276000+03:00 web-01 sshd[14540]: Failed password for invalid user ubuntu from 218.92.0.112 port 62305 ssh2
+2026-10-30T09:48:25.401000+03:00 web-01 sshd[14485]: Failed password for root from 218.92.0.112 port 64681 ssh2
+2026-10-30T09:48:25.638000+03:00 web-01 sshd[14497]: Invalid user oracle from 218.92.0.112 port 42569
+2026-10-30T09:48:25.988000+03:00 web-01 sshd[14508]: Failed password for admin from 218.92.0.112 port 30199 ssh2
+2026-10-30T09:48:25.994000+03:00 web-01 sshd[14518]: Invalid user ubuntu from 218.92.0.112 port 62305
+2026-10-30T09:48:26.062000+03:00 web-01 sshd[14578]: Failed password for root from 218.92.0.112 port 55642 ssh2
+2026-10-30T09:48:26.177000+03:00 web-01 sshd[14583]: Failed password for root from 218.92.0.112 port 47421 ssh2
+2026-10-30T09:48:26.463000+03:00 web-01 sshd[14572]: Failed password for invalid user ubuntu from 218.92.0.112 port 34583 ssh2
+2026-10-30T09:48:26.848000+03:00 web-01 sshd[14577]: Failed password for invalid user test from 218.92.0.112 port 45081 ssh2
+2026-10-30T09:48:26.917000+03:00 web-01 sshd[14574]: Invalid user test from 218.92.0.112 port 45081
+2026-10-30T09:48:26.950000+03:00 web-01 sshd[14559]: Invalid user ubuntu from 218.92.0.112 port 34583
+2026-10-30T09:48:27.284000+03:00 web-01 sshd[14651]: Failed password for root from 218.92.0.112 port 44102 ssh2
+2026-10-30T09:48:27.298000+03:00 web-01 sshd[14620]: Failed password for root from 218.92.0.112 port 34771 ssh2
+2026-10-30T09:48:27.693000+03:00 web-01 sshd[14630]: Failed password for root from 218.92.0.112 port 36005 ssh2
+2026-10-30T09:48:27.991000+03:00 web-01 sshd[14602]: Failed password for root from 218.92.0.112 port 39175 ssh2
+2026-10-30T09:48:28.001000+03:00 web-01 sshd[14724]: Failed password for root from 218.92.0.112 port 38045 ssh2
+2026-10-30T09:48:28.261000+03:00 web-01 sshd[14708]: Failed password for admin from 218.92.0.112 port 53432 ssh2
+2026-10-30T09:48:28.734000+03:00 web-01 sshd[14667]: Failed password for root from 218.92.0.112 port 59795 ssh2
+2026-10-30T09:48:28.851000+03:00 web-01 sshd[14685]: Failed password for admin from 218.92.0.112 port 45349 ssh2
+2026-10-30T09:48:29.169000+03:00 web-01 sshd[14811]: Invalid user test from 218.92.0.112 port 49502
+2026-10-30T09:48:29.202000+03:00 web-01 sshd[14827]: Failed password for invalid user test from 218.92.0.112 port 49502 ssh2
+2026-10-30T09:48:29.258000+03:00 web-01 sshd[14871]: Failed password for invalid user test from 218.92.0.112 port 40914 ssh2
+2026-10-30T09:48:29.662000+03:00 web-01 sshd[14763]: Invalid user oracle from 218.92.0.112 port 56793
+2026-10-30T09:48:29.677000+03:00 web-01 sshd[14726]: Invalid user test from 218.92.0.112 port 44707
+2026-10-30T09:48:29.686000+03:00 web-01 sshd[14734]: Failed password for invalid user test from 218.92.0.112 port 44707 ssh2
+2026-10-30T09:48:29.759000+03:00 web-01 sshd[14847]: Invalid user test from 218.92.0.112 port 40914
+2026-10-30T09:48:29.838000+03:00 web-01 sshd[6277]: Failed password for murat from 10.0.1.18 port 55143 ssh2
+2026-10-30T09:48:29.927000+03:00 web-01 sshd[14782]: Failed password for invalid user oracle from 218.92.0.112 port 56793 ssh2
+2026-10-30T09:48:30.010000+03:00 web-01 sshd[14894]: Invalid user oracle from 218.92.0.112 port 55207
+2026-10-30T09:48:30.136000+03:00 web-01 sshd[14903]: Failed password for root from 218.92.0.112 port 38412 ssh2
+2026-10-30T09:48:30.334000+03:00 web-01 sshd[14882]: Failed password for root from 218.92.0.112 port 44799 ssh2
+2026-10-30T09:48:30.900000+03:00 web-01 sshd[14900]: Failed password for invalid user oracle from 218.92.0.112 port 55207 ssh2
+2026-10-30T09:48:30.931000+03:00 web-01 sshd[14902]: Failed password for admin from 218.92.0.112 port 58891 ssh2
+2026-10-30T09:48:31.024000+03:00 web-01 sshd[14995]: Failed password for invalid user ubuntu from 218.92.0.112 port 32119 ssh2
+2026-10-30T09:48:31.293000+03:00 web-01 sshd[14932]: Failed password for invalid user test from 218.92.0.112 port 60074 ssh2
+2026-10-30T09:48:31.331000+03:00 web-01 sshd[14989]: Invalid user ubuntu from 218.92.0.112 port 32119
+2026-10-30T09:48:31.359000+03:00 web-01 sshd[14919]: Invalid user test from 218.92.0.112 port 60074
+2026-10-30T09:48:31.368000+03:00 web-01 sshd[14938]: Failed password for admin from 218.92.0.112 port 59924 ssh2
+2026-10-30T09:48:31.859000+03:00 web-01 sshd[14961]: Invalid user test from 218.92.0.112 port 49809
+2026-10-30T09:48:31.919000+03:00 web-01 sshd[14966]: Failed password for invalid user test from 218.92.0.112 port 49809 ssh2
+2026-10-30T09:48:32.113000+03:00 web-01 sshd[15035]: Failed password for invalid user ubuntu from 218.92.0.112 port 60443 ssh2
+2026-10-30T09:48:32.482000+03:00 web-01 sshd[15034]: Invalid user ubuntu from 218.92.0.112 port 60443
+2026-10-30T09:48:32.678000+03:00 web-01 sshd[15024]: Invalid user oracle from 218.92.0.112 port 42914
+2026-10-30T09:48:32.804000+03:00 web-01 sshd[15069]: Failed password for invalid user oracle from 218.92.0.112 port 58948 ssh2
+2026-10-30T09:48:32.889000+03:00 web-01 sshd[15044]: Invalid user oracle from 218.92.0.112 port 58948
+2026-10-30T09:48:32.897000+03:00 web-01 sshd[15025]: Failed password for invalid user oracle from 218.92.0.112 port 42914 ssh2
+2026-10-30T09:48:32.980000+03:00 web-01 sshd[15026]: Failed password for root from 218.92.0.112 port 38474 ssh2
+2026-10-30T09:48:33.151000+03:00 web-01 sshd[15144]: Invalid user oracle from 218.92.0.112 port 50900
+2026-10-30T09:48:33.376000+03:00 web-01 sshd[15103]: Invalid user test from 218.92.0.112 port 35043
+2026-10-30T09:48:33.609000+03:00 web-01 sshd[15102]: Failed password for admin from 218.92.0.112 port 47546 ssh2
+2026-10-30T09:48:33.819000+03:00 web-01 sshd[15123]: Failed password for invalid user test from 218.92.0.112 port 35043 ssh2
+2026-10-30T09:48:33.870000+03:00 web-01 sshd[15150]: Failed password for invalid user oracle from 218.92.0.112 port 50900 ssh2
+2026-10-30T09:48:33.874000+03:00 web-01 sshd[15095]: Failed password for admin from 218.92.0.112 port 48210 ssh2
+2026-10-30T09:48:34.106000+03:00 web-01 sshd[15228]: Failed password for invalid user oracle from 218.92.0.112 port 47791 ssh2
+2026-10-30T09:48:34.247000+03:00 web-01 sshd[15214]: Failed password for admin from 218.92.0.112 port 41329 ssh2
+2026-10-30T09:48:34.438000+03:00 web-01 sshd[15227]: Invalid user oracle from 218.92.0.112 port 47791
+2026-10-30T09:48:34.773000+03:00 web-01 sshd[15199]: Failed password for invalid user oracle from 218.92.0.112 port 63653 ssh2
+2026-10-30T09:48:34.930000+03:00 web-01 sshd[15163]: Failed password for root from 218.92.0.112 port 34272 ssh2
+2026-10-30T09:48:34.954000+03:00 web-01 sshd[15179]: Invalid user oracle from 218.92.0.112 port 63653
+2026-10-30T09:48:35.028000+03:00 web-01 sshd[15279]: Failed password for root from 218.92.0.112 port 39748 ssh2
+2026-10-30T09:48:35.333000+03:00 web-01 sshd[15304]: Failed password for root from 218.92.0.112 port 31893 ssh2
+2026-10-30T09:48:35.698000+03:00 web-01 sshd[15243]: Failed password for root from 218.92.0.112 port 42530 ssh2
+2026-10-30T09:48:35.898000+03:00 web-01 sshd[15251]: Failed password for admin from 218.92.0.112 port 42777 ssh2
+2026-10-30T09:48:36.102000+03:00 web-01 sshd[15328]: Invalid user oracle from 218.92.0.112 port 33643
+2026-10-30T09:48:36.305000+03:00 web-01 sshd[15419]: Invalid user oracle from 218.92.0.112 port 41946
+2026-10-30T09:48:36.517000+03:00 web-01 sshd[15411]: Failed password for root from 218.92.0.112 port 40439 ssh2
+2026-10-30T09:48:36.524000+03:00 web-01 sshd[15383]: Failed password for invalid user ubuntu from 218.92.0.112 port 52487 ssh2
+2026-10-30T09:48:36.676000+03:00 web-01 sshd[15346]: Failed password for invalid user oracle from 218.92.0.112 port 33643 ssh2
+2026-10-30T09:48:36.706000+03:00 web-01 sshd[15373]: Invalid user ubuntu from 218.92.0.112 port 52487
+2026-10-30T09:48:36.811000+03:00 web-01 sshd[15443]: Failed password for invalid user oracle from 218.92.0.112 port 41946 ssh2
+2026-10-30T09:48:37.095000+03:00 web-01 sshd[15520]: Invalid user oracle from 218.92.0.112 port 57721
+2026-10-30T09:48:37.247000+03:00 web-01 sshd[15452]: Invalid user ubuntu from 218.92.0.112 port 44428
+2026-10-30T09:48:37.442000+03:00 web-01 sshd[15463]: Failed password for root from 218.92.0.112 port 52551 ssh2
+2026-10-30T09:48:37.552000+03:00 web-01 sshd[15481]: Invalid user ubuntu from 218.92.0.112 port 61802
+2026-10-30T09:48:37.790000+03:00 web-01 sshd[15499]: Failed password for invalid user ubuntu from 218.92.0.112 port 61802 ssh2
+2026-10-30T09:48:37.893000+03:00 web-01 sshd[15458]: Failed password for invalid user ubuntu from 218.92.0.112 port 44428 ssh2
+2026-10-30T09:48:37.909000+03:00 web-01 sshd[15530]: Failed password for invalid user oracle from 218.92.0.112 port 57721 ssh2
+2026-10-30T09:48:38.069000+03:00 web-01 sshd[15541]: Failed password for root from 218.92.0.112 port 40001 ssh2
+2026-10-30T09:48:38.314000+03:00 web-01 sshd[15534]: Failed password for root from 218.92.0.112 port 56299 ssh2
+2026-10-30T09:48:38.401000+03:00 web-01 sshd[15618]: Failed password for invalid user test from 218.92.0.112 port 34955 ssh2
+2026-10-30T09:48:38.433000+03:00 web-01 sshd[15592]: Failed password for invalid user oracle from 218.92.0.112 port 42869 ssh2
+2026-10-30T09:48:38.896000+03:00 web-01 sshd[15610]: Invalid user test from 218.92.0.112 port 34955
+2026-10-30T09:48:38.920000+03:00 web-01 sshd[15571]: Invalid user oracle from 218.92.0.112 port 42869
+2026-10-30T09:48:39.369000+03:00 web-01 sshd[15624]: Failed password for admin from 218.92.0.112 port 47580 ssh2
+2026-10-30T09:48:39.650000+03:00 web-01 sshd[15678]: Failed password for invalid user oracle from 218.92.0.112 port 63775 ssh2
+2026-10-30T09:48:39.676000+03:00 web-01 sshd[15645]: Failed password for root from 218.92.0.112 port 61058 ssh2
+2026-10-30T09:48:39.683000+03:00 web-01 sshd[15656]: Failed password for admin from 218.92.0.112 port 63462 ssh2
+2026-10-30T09:48:39.809000+03:00 web-01 sshd[15671]: Invalid user oracle from 218.92.0.112 port 63775
+2026-10-30T09:48:40.202000+03:00 web-01 sshd[15690]: Failed password for invalid user ubuntu from 218.92.0.112 port 44988 ssh2
+2026-10-30T09:48:40.257000+03:00 web-01 sshd[15680]: Invalid user ubuntu from 218.92.0.112 port 44988
+2026-10-30T09:48:40.315000+03:00 web-01 sshd[15700]: Failed password for admin from 218.92.0.112 port 38094 ssh2
+2026-10-30T09:48:40.586000+03:00 web-01 sshd[15723]: Failed password for invalid user test from 218.92.0.112 port 38471 ssh2
+2026-10-30T09:48:40.606000+03:00 web-01 sshd[15725]: Invalid user oracle from 218.92.0.112 port 58181
+2026-10-30T09:48:40.774000+03:00 web-01 sshd[15701]: Invalid user test from 218.92.0.112 port 38471
+2026-10-30T09:48:40.935000+03:00 web-01 sshd[15735]: Failed password for invalid user oracle from 218.92.0.112 port 58181 ssh2
+2026-10-30T09:48:41.112000+03:00 web-01 sshd[15853]: Failed password for invalid user test from 218.92.0.112 port 50737 ssh2
+2026-10-30T09:48:41.268000+03:00 web-01 sshd[15836]: Invalid user test from 218.92.0.112 port 50737
+2026-10-30T09:48:41.290000+03:00 web-01 sshd[15793]: Failed password for invalid user oracle from 218.92.0.112 port 50392 ssh2
+2026-10-30T09:48:41.373000+03:00 web-01 sshd[15765]: Invalid user oracle from 218.92.0.112 port 50392
+2026-10-30T09:48:41.455000+03:00 web-01 sshd[15819]: Failed password for root from 218.92.0.112 port 30885 ssh2
+2026-10-30T09:48:41.520000+03:00 web-01 sshd[15877]: Invalid user oracle from 218.92.0.112 port 35015
+2026-10-30T09:48:41.743000+03:00 web-01 sshd[15895]: Failed password for invalid user oracle from 218.92.0.112 port 35015 ssh2
+2026-10-30T09:48:42.024000+03:00 web-01 sshd[15919]: Failed password for invalid user oracle from 218.92.0.112 port 55593 ssh2
+2026-10-30T09:48:42.357000+03:00 web-01 sshd[15946]: Invalid user ubuntu from 218.92.0.112 port 41160
+2026-10-30T09:48:42.546000+03:00 web-01 sshd[16020]: Failed password for invalid user ubuntu from 218.92.0.112 port 49123 ssh2
+2026-10-30T09:48:42.669000+03:00 web-01 sshd[15899]: Invalid user oracle from 218.92.0.112 port 55593
+2026-10-30T09:48:42.776000+03:00 web-01 sshd[16035]: Failed password for root from 218.92.0.112 port 57878 ssh2
+2026-10-30T09:48:42.894000+03:00 web-01 sshd[15992]: Invalid user ubuntu from 218.92.0.112 port 49123
+2026-10-30T09:48:42.962000+03:00 web-01 sshd[15975]: Failed password for invalid user ubuntu from 218.92.0.112 port 41160 ssh2
+2026-10-30T09:48:43.231000+03:00 web-01 sshd[16120]: Invalid user test from 218.92.0.112 port 40078
+2026-10-30T09:48:43.275000+03:00 web-01 sshd[16064]: Failed password for invalid user oracle from 218.92.0.112 port 31479 ssh2
+2026-10-30T09:48:43.441000+03:00 web-01 sshd[16061]: Invalid user oracle from 218.92.0.112 port 31479
+2026-10-30T09:48:43.457000+03:00 web-01 sshd[16093]: Invalid user ubuntu from 218.92.0.112 port 40778
+2026-10-30T09:48:43.628000+03:00 web-01 sshd[16116]: Failed password for invalid user ubuntu from 218.92.0.112 port 40778 ssh2
+2026-10-30T09:48:43.955000+03:00 web-01 sshd[16067]: Failed password for admin from 218.92.0.112 port 35732 ssh2
+2026-10-30T09:48:43.998000+03:00 web-01 sshd[16140]: Failed password for invalid user test from 218.92.0.112 port 40078 ssh2
+2026-10-30T09:48:44.059000+03:00 web-01 sshd[16178]: Failed password for root from 218.92.0.112 port 45259 ssh2
+2026-10-30T09:48:44.231000+03:00 web-01 sshd[16220]: Failed password for admin from 218.92.0.112 port 60228 ssh2
+2026-10-30T09:48:44.613000+03:00 web-01 sshd[16208]: Failed password for root from 218.92.0.112 port 30254 ssh2
+2026-10-30T09:48:44.667000+03:00 web-01 sshd[16151]: Failed password for root from 218.92.0.112 port 32105 ssh2
+2026-10-30T09:48:45.133000+03:00 web-01 sshd[16291]: Failed password for admin from 218.92.0.112 port 35193 ssh2
+2026-10-30T09:48:45.579000+03:00 web-01 sshd[16320]: Failed password for admin from 218.92.0.112 port 57012 ssh2
+2026-10-30T09:48:45.735000+03:00 web-01 sshd[16225]: Invalid user ubuntu from 218.92.0.112 port 62928
+2026-10-30T09:48:45.910000+03:00 web-01 sshd[16282]: Failed password for admin from 218.92.0.112 port 35837 ssh2
+2026-10-30T09:48:45.956000+03:00 web-01 sshd[16252]: Failed password for invalid user ubuntu from 218.92.0.112 port 62928 ssh2
+2026-10-30T09:48:46.142000+03:00 web-01 sshd[16344]: Invalid user oracle from 218.92.0.112 port 59788
+2026-10-30T09:48:46.145000+03:00 web-01 sshd[16361]: Invalid user oracle from 218.92.0.112 port 51169
+2026-10-30T09:48:46.172000+03:00 web-01 sshd[16409]: Failed password for admin from 218.92.0.112 port 64234 ssh2
+2026-10-30T09:48:46.417000+03:00 web-01 sshd[16393]: Failed password for invalid user ubuntu from 218.92.0.112 port 32166 ssh2
+2026-10-30T09:48:46.491000+03:00 web-01 sshd[16352]: Failed password for invalid user oracle from 218.92.0.112 port 59788 ssh2
+2026-10-30T09:48:46.548000+03:00 web-01 sshd[16372]: Failed password for invalid user oracle from 218.92.0.112 port 51169 ssh2
+2026-10-30T09:48:46.975000+03:00 web-01 sshd[16375]: Invalid user ubuntu from 218.92.0.112 port 32166
+2026-10-30T09:48:47.128000+03:00 web-01 sshd[16492]: Invalid user ubuntu from 218.92.0.112 port 40873
+2026-10-30T09:48:47.137000+03:00 web-01 sshd[16497]: Failed password for invalid user ubuntu from 218.92.0.112 port 40873 ssh2
+2026-10-30T09:48:47.141000+03:00 web-01 sshd[16481]: Failed password for root from 218.92.0.112 port 62497 ssh2
+2026-10-30T09:48:47.529000+03:00 web-01 sshd[16424]: Failed password for admin from 218.92.0.112 port 42297 ssh2
+2026-10-30T09:48:47.864000+03:00 web-01 sshd[16451]: Failed password for root from 218.92.0.112 port 55326 ssh2
+2026-10-30T09:48:48.283000+03:00 web-01 sshd[16514]: Failed password for admin from 218.92.0.112 port 32451 ssh2
+2026-10-30T09:48:48.673000+03:00 web-01 sshd[16571]: Failed password for invalid user ubuntu from 218.92.0.112 port 58723 ssh2
+2026-10-30T09:48:48.860000+03:00 web-01 sshd[16513]: Failed password for root from 218.92.0.112 port 49753 ssh2
+2026-10-30T09:48:48.957000+03:00 web-01 sshd[16525]: Failed password for invalid user oracle from 218.92.0.112 port 50663 ssh2
+2026-10-30T09:48:48.960000+03:00 web-01 sshd[16547]: Invalid user ubuntu from 218.92.0.112 port 58723
+2026-10-30T09:48:48.997000+03:00 web-01 sshd[16515]: Invalid user oracle from 218.92.0.112 port 50663
+2026-10-30T09:48:49.106000+03:00 web-01 sshd[16681]: Invalid user ubuntu from 218.92.0.112 port 59506
+2026-10-30T09:48:49.182000+03:00 web-01 sshd[16608]: Failed password for invalid user test from 218.92.0.112 port 32125 ssh2
+2026-10-30T09:48:49.630000+03:00 web-01 sshd[16649]: Failed password for invalid user ubuntu from 218.92.0.112 port 42343 ssh2
+2026-10-30T09:48:49.704000+03:00 web-01 sshd[16696]: Failed password for invalid user ubuntu from 218.92.0.112 port 59506 ssh2
+2026-10-30T09:48:49.822000+03:00 web-01 sshd[16601]: Invalid user test from 218.92.0.112 port 32125
+2026-10-30T09:48:49.922000+03:00 web-01 sshd[16672]: Failed password for root from 218.92.0.112 port 33862 ssh2
+2026-10-30T09:48:49.978000+03:00 web-01 sshd[16632]: Invalid user ubuntu from 218.92.0.112 port 42343
+2026-10-30T09:48:50.104000+03:00 web-01 sshd[16796]: Invalid user ubuntu from 218.92.0.112 port 46997
+2026-10-30T09:48:50.312000+03:00 web-01 sshd[16818]: Failed password for invalid user ubuntu from 218.92.0.112 port 46997 ssh2
+2026-10-30T09:48:50.473000+03:00 web-01 sshd[16774]: Invalid user ubuntu from 218.92.0.112 port 49289
+2026-10-30T09:48:50.504000+03:00 web-01 sshd[16749]: Failed password for invalid user oracle from 218.92.0.112 port 38731 ssh2
+2026-10-30T09:48:50.579000+03:00 web-01 sshd[16723]: Invalid user oracle from 218.92.0.112 port 38731
+2026-10-30T09:48:50.846000+03:00 web-01 sshd[16840]: Failed password for admin from 218.92.0.112 port 58095 ssh2
+2026-10-30T09:48:50.866000+03:00 web-01 sshd[16788]: Failed password for invalid user ubuntu from 218.92.0.112 port 49289 ssh2
+2026-10-30T09:48:51.069000+03:00 web-01 sshd[16943]: Failed password for admin from 218.92.0.112 port 52103 ssh2
+2026-10-30T09:48:51.264000+03:00 web-01 sshd[16931]: Failed password for root from 218.92.0.112 port 61039 ssh2
+2026-10-30T09:48:51.319000+03:00 web-01 sshd[16861]: Invalid user ubuntu from 218.92.0.112 port 44241
+2026-10-30T09:48:51.526000+03:00 web-01 sshd[16901]: Invalid user oracle from 218.92.0.112 port 30768
+2026-10-30T09:48:51.619000+03:00 web-01 sshd[16919]: Failed password for invalid user oracle from 218.92.0.112 port 30768 ssh2
+2026-10-30T09:48:51.944000+03:00 web-01 sshd[16891]: Failed password for invalid user ubuntu from 218.92.0.112 port 44241 ssh2
+2026-10-30T09:48:52.335000+03:00 web-01 sshd[17047]: Failed password for root from 218.92.0.112 port 60623 ssh2
+2026-10-30T09:48:52.377000+03:00 web-01 sshd[17026]: Failed password for invalid user test from 218.92.0.112 port 46119 ssh2
+2026-10-30T09:48:52.424000+03:00 web-01 sshd[17000]: Invalid user test from 218.92.0.112 port 46119
+2026-10-30T09:48:52.532000+03:00 web-01 sshd[16981]: Failed password for invalid user ubuntu from 218.92.0.112 port 38313 ssh2
+2026-10-30T09:48:52.643000+03:00 web-01 sshd[16954]: Invalid user ubuntu from 218.92.0.112 port 38313
+2026-10-30T09:48:52.689000+03:00 web-01 sshd[16945]: Failed password for admin from 218.92.0.112 port 57401 ssh2
+2026-10-30T09:48:53.018000+03:00 web-01 sshd[17079]: Failed password for invalid user oracle from 218.92.0.112 port 45785 ssh2
+2026-10-30T09:48:53.082000+03:00 web-01 sshd[17136]: Invalid user oracle from 218.92.0.112 port 42715
+2026-10-30T09:48:53.415000+03:00 web-01 sshd[17097]: Failed password for root from 218.92.0.112 port 42240 ssh2
+2026-10-30T09:48:53.532000+03:00 web-01 sshd[17124]: Invalid user ubuntu from 218.92.0.112 port 38954
+2026-10-30T09:48:53.560000+03:00 web-01 sshd[17135]: Failed password for invalid user ubuntu from 218.92.0.112 port 38954 ssh2
+2026-10-30T09:48:53.705000+03:00 web-01 sshd[17166]: Failed password for invalid user oracle from 218.92.0.112 port 42715 ssh2
+2026-10-30T09:48:53.860000+03:00 web-01 sshd[17051]: Invalid user oracle from 218.92.0.112 port 45785
+2026-10-30T09:48:54.144000+03:00 web-01 sshd[17188]: Invalid user oracle from 218.92.0.112 port 32689
+2026-10-30T09:48:54.232000+03:00 web-01 sshd[17247]: Failed password for root from 218.92.0.112 port 49633 ssh2
+2026-10-30T09:48:54.362000+03:00 web-01 sshd[17228]: Failed password for admin from 218.92.0.112 port 41531 ssh2
+2026-10-30T09:48:54.483000+03:00 web-01 sshd[17223]: Failed password for root from 218.92.0.112 port 61344 ssh2
+2026-10-30T09:48:54.874000+03:00 web-01 sshd[17197]: Failed password for invalid user oracle from 218.92.0.112 port 32689 ssh2
+2026-10-30T09:48:55.198000+03:00 web-01 sshd[17283]: Invalid user ubuntu from 218.92.0.112 port 42502
+2026-10-30T09:48:55.523000+03:00 web-01 sshd[17297]: Failed password for invalid user ubuntu from 218.92.0.112 port 42502 ssh2
+2026-10-30T09:48:55.651000+03:00 web-01 sshd[17257]: Failed password for admin from 218.92.0.112 port 31291 ssh2
+2026-10-30T09:48:55.676000+03:00 web-01 sshd[17340]: Invalid user ubuntu from 218.92.0.112 port 52679
+2026-10-30T09:48:55.682000+03:00 web-01 sshd[17322]: Failed password for invalid user test from 218.92.0.112 port 38178 ssh2
+2026-10-30T09:48:55.704000+03:00 web-01 sshd[17298]: Invalid user test from 218.92.0.112 port 38178
+2026-10-30T09:48:55.873000+03:00 web-01 sshd[17360]: Failed password for invalid user ubuntu from 218.92.0.112 port 52679 ssh2
+2026-10-30T09:48:56.094000+03:00 web-01 sshd[17412]: Failed password for invalid user ubuntu from 218.92.0.112 port 51642 ssh2
+2026-10-30T09:48:56.250000+03:00 web-01 sshd[17469]: Invalid user oracle from 218.92.0.112 port 34956
+2026-10-30T09:48:56.402000+03:00 web-01 sshd[17434]: Invalid user ubuntu from 218.92.0.112 port 58132
+2026-10-30T09:48:56.522000+03:00 web-01 sshd[17452]: Failed password for invalid user ubuntu from 218.92.0.112 port 58132 ssh2
+2026-10-30T09:48:56.528000+03:00 web-01 sshd[17482]: Failed password for invalid user oracle from 218.92.0.112 port 34956 ssh2
+2026-10-30T09:48:56.571000+03:00 web-01 sshd[17500]: Failed password for root from 218.92.0.112 port 31810 ssh2
+2026-10-30T09:48:56.950000+03:00 web-01 sshd[17383]: Invalid user ubuntu from 218.92.0.112 port 51642
+2026-10-30T09:48:57.072000+03:00 web-01 sshd[17511]: Invalid user test from 218.92.0.112 port 39385
+2026-10-30T09:48:57.339000+03:00 web-01 sshd[17561]: Invalid user ubuntu from 218.92.0.112 port 56917
+2026-10-30T09:48:57.340000+03:00 web-01 sshd[17587]: Failed password for invalid user ubuntu from 218.92.0.112 port 56917 ssh2
+2026-10-30T09:48:57.350000+03:00 web-01 sshd[17530]: Invalid user test from 218.92.0.112 port 55120
+2026-10-30T09:48:57.373000+03:00 web-01 sshd[17522]: Failed password for invalid user test from 218.92.0.112 port 39385 ssh2
+2026-10-30T09:48:57.540000+03:00 web-01 sshd[17608]: Failed password for admin from 218.92.0.112 port 50582 ssh2
+2026-10-30T09:48:57.969000+03:00 web-01 sshd[17544]: Failed password for invalid user test from 218.92.0.112 port 55120 ssh2
+2026-10-30T09:48:58.060000+03:00 web-01 sshd[17616]: Failed password for invalid user test from 218.92.0.112 port 53315 ssh2
+2026-10-30T09:48:58.131000+03:00 web-01 sshd[17640]: Failed password for root from 218.92.0.112 port 62295 ssh2
+2026-10-30T09:48:58.203000+03:00 web-01 sshd[17615]: Invalid user test from 218.92.0.112 port 53315
+2026-10-30T09:48:58.713000+03:00 web-01 sshd[17660]: Failed password for admin from 218.92.0.112 port 30041 ssh2
+2026-10-30T09:48:58.898000+03:00 web-01 sshd[17656]: Failed password for root from 218.92.0.112 port 38211 ssh2
+2026-10-30T09:48:59.226000+03:00 web-01 sshd[17688]: Invalid user test from 218.92.0.112 port 39334
+2026-10-30T09:48:59.254000+03:00 web-01 sshd[17685]: Failed password for root from 218.92.0.112 port 51024 ssh2
+2026-10-30T09:48:59.417000+03:00 web-01 sshd[17729]: Failed password for root from 218.92.0.112 port 63232 ssh2
+2026-10-30T09:48:59.442000+03:00 web-01 sshd[17687]: Failed password for root from 218.92.0.112 port 38848 ssh2
+2026-10-30T09:48:59.911000+03:00 web-01 sshd[17718]: Failed password for invalid user test from 218.92.0.112 port 39334 ssh2
+2026-10-30T09:49:00.021000+03:00 web-01 CRON[6281]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:49:33.559000+03:00 web-01 sshd[6307]: Accepted publickey for admin from 10.0.1.7 port 46080 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:50:00.998000+03:00 web-01 CRON[6356]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:51:00.381000+03:00 web-01 CRON[6426]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:51:43.063000+03:00 web-01 sshd[6455]: Accepted publickey for deploy from 10.0.1.5 port 62481 ssh2: ED25519 SHA256:k3Qx
+2026-10-30T09:52:00.850000+03:00 web-01 CRON[6476]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:53:00.100000+03:00 web-01 CRON[6505]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:54:00.792000+03:00 web-01 CRON[6514]: pam_unix(cron:session): session opened for user root(uid=0)
+2026-10-30T09:54:38.895000+03:00 web-01 sshd[6542]: Accepted publickey for deploy from 10.0.1.5 port 42229 ssh2: ED25519 SHA256:k3Qx
